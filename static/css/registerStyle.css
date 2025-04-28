@@ -1,0 +1,108 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main-home {
+    min-height: 100vh; /* full viewport height */
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* padding-top: 80px; */
+}
+
+
+#inner-heading{
+    color: #ffc107;
+    font-weight: bold;
+    font-size: 50px;  
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+#line2{
+    font-size: 30px;
+    color: #ffff;
+}
+
+
+.button {
+    background-color: #0056b3;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    
+}
+
+.button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.content {
+    width: 800px;
+    height: 400px;
+    background-color: coral;
+    margin-bottom: 20px;
+    border: 3px solid #ffff; 
+    border-radius: 20px; 
+}
+.content h1{
+    color: #ffff;
+}
+.content h2 {
+    text-align: left;
+    padding-left: 60px; /* optional: adds some spacing from the left edge */
+    margin-top: 20px;   /* optional: spacing from top if needed */
+    /* color: white;       optional: if the background is coral */
+}
+
+.content-sentnse{
+    width: 800px;
+    height: 200px;
+    background-color: coral;
+    margin-bottom: 20px;
+    border: 3px solid #ffff; 
+    border-radius: 20px; 
+}
+
+.button-wrapper {
+    display: flex;
+    flex-direction:row;
+    align-items: center; /* optional: centers buttons horizontally */
+    gap: 35px; /* spacing between buttons */
+    margin-top: 20px;
+}
+#reg{
+    color: #ffff;
+}
+
+.input-text {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* space between label and input */
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+.input-text label {
+    white-space: nowrap;
+    font-weight: bold;
+    color: #ffff;
+}
+
+.input-text input[type="text"] {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}

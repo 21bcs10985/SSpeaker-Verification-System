@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
+</head>
+<body>
+    <div class="mainn" >
+        <div class="inner">
+            <p id="line1"><span id="inner-text">Welcome</span> to our final year project</p>
+            <p id="inner-heading">A DNN based speaker verification system 😊</p>
+            <p id="line2">This project is developed under the supervision of :</p>
+            <p id="inner-name">Er. Vanshika Sharma</p>
+        </div>
+
+        <div class="card-wrapper">
+            <div class="left-card">
+                <h1>Our Team members</h1>
+                <h2 id="name">Harsh Deo Ravi --- 21BCS10985</h2>
+                <h2 id="name">Tejas Mittal --- 21BCS10933</h2>
+                <h2 id="name">Sachin Kumar --- 21BCS7402</h2>
+                <h2 id="name">Gaurav --- 21BCS10985</h2>
+                <h2 id="name">Kushank Chauhan --- 21BCS10985</h2>
+
+            </div>
+            <div class="right-card">
+                <h2>About Project</h2>
+                <h3> 
+                    This project is a speaker verification system that utilizes deep learning techniques to authenticate users based on their voice recordings. It incorporates a deepfake detection model to differentiate between real and synthetic voices, ensuring the authenticity of the speaker. The system processes the recorded audio, extracts relevant features, and uses a trained DNN for speaker recognition. Additionally, the project provides a user-friendly interface for recording, saving, and analyzing voice data, making it suitable for secure voice authentication in various applications.                </h3>
+            </div>
+        </div>
+        
+        <button class="button" onclick="window.location.href='home2'"> Lets Start </button>
+
+        <!-- <button class="btn btn-primary m-3">Test Button</button> -->
+
+    </div>
+    
+    
+
+    
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
+</body>
+</html>

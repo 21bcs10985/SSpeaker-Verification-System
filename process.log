@@ -1,0 +1,1380 @@
+2025-04-16 14:50:45,957 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-16 14:50:45,957 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 14:50:45,973 - INFO -  * Restarting with stat
+2025-04-16 14:50:54,900 - WARNING -  * Debugger is active!
+2025-04-16 14:50:54,900 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 14:53:19,871 - INFO - 127.0.0.1 - - [16/Apr/2025 14:53:19] "GET / HTTP/1.1" 200 -
+2025-04-16 14:53:20,795 - INFO - 127.0.0.1 - - [16/Apr/2025 14:53:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-16 14:57:25,561 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-16 14:57:25,561 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 14:57:25,561 - INFO -  * Restarting with stat
+2025-04-16 14:57:32,239 - WARNING -  * Debugger is active!
+2025-04-16 14:57:32,240 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 14:57:36,235 - INFO - 127.0.0.1 - - [16/Apr/2025 14:57:36] "GET / HTTP/1.1" 200 -
+2025-04-16 15:04:03,685 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-16 15:04:04,324 - INFO -  * Restarting with stat
+2025-04-16 15:04:11,584 - WARNING -  * Debugger is active!
+2025-04-16 15:04:11,588 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 15:04:17,141 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-16 15:04:18,194 - INFO -  * Restarting with stat
+2025-04-16 15:05:05,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-16 15:05:05,936 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 15:05:05,936 - INFO -  * Restarting with stat
+2025-04-16 15:05:12,442 - WARNING -  * Debugger is active!
+2025-04-16 15:05:12,442 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 15:05:14,661 - INFO - 127.0.0.1 - - [16/Apr/2025 15:05:14] "GET / HTTP/1.1" 200 -
+2025-04-16 15:05:49,060 - INFO - 127.0.0.1 - - [16/Apr/2025 15:05:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-16 15:14:21,364 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-16 15:14:22,455 - INFO -  * Restarting with stat
+2025-04-16 15:14:31,834 - WARNING -  * Debugger is active!
+2025-04-16 15:14:31,844 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 15:18:09,717 - INFO - 127.0.0.1 - - [16/Apr/2025 15:18:09] "POST /register HTTP/1.1" 200 -
+2025-04-16 15:21:12,987 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-16 15:21:12,987 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 15:21:12,987 - INFO -  * Restarting with stat
+2025-04-16 15:21:20,386 - WARNING -  * Debugger is active!
+2025-04-16 15:21:20,389 - INFO -  * Debugger PIN: 816-571-228
+2025-04-16 15:21:20,651 - INFO - 127.0.0.1 - - [16/Apr/2025 15:21:20] "GET / HTTP/1.1" 200 -
+2025-04-17 11:10:34,824 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 11:10:34,824 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:10:34,835 - INFO -  * Restarting with stat
+2025-04-17 11:10:51,718 - WARNING -  * Debugger is active!
+2025-04-17 11:10:51,726 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:11:02,024 - INFO - 127.0.0.1 - - [17/Apr/2025 11:11:02] "[33mGET /templates/index.html HTTP/1.1[0m" 404 -
+2025-04-17 11:11:03,147 - INFO - 127.0.0.1 - - [17/Apr/2025 11:11:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-17 11:12:34,127 - INFO - 127.0.0.1 - - [17/Apr/2025 11:12:34] "GET / HTTP/1.1" 200 -
+2025-04-17 11:30:42,732 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-17 11:30:45,579 - INFO -  * Restarting with stat
+2025-04-17 11:31:04,054 - WARNING -  * Debugger is active!
+2025-04-17 11:31:04,085 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:36:47,037 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 11:36:47,037 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:36:47,037 - INFO -  * Restarting with stat
+2025-04-17 11:37:03,323 - WARNING -  * Debugger is active!
+2025-04-17 11:37:03,334 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:37:03,789 - INFO - 127.0.0.1 - - [17/Apr/2025 11:37:03] "GET / HTTP/1.1" 200 -
+2025-04-17 11:37:03,790 - INFO - 127.0.0.1 - - [17/Apr/2025 11:37:03] "GET / HTTP/1.1" 200 -
+2025-04-17 11:39:16,021 - INFO - 127.0.0.1 - - [17/Apr/2025 11:39:16] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:39:20,074 - INFO - 127.0.0.1 - - [17/Apr/2025 11:39:20] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:39:24,118 - INFO - 127.0.0.1 - - [17/Apr/2025 11:39:24] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:39:28,158 - INFO - 127.0.0.1 - - [17/Apr/2025 11:39:28] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:44:06,013 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\register_user.py', reloading
+2025-04-17 11:44:07,386 - INFO -  * Restarting with stat
+2025-04-17 11:45:24,650 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-17 11:45:24,650 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 11:45:24,650 - INFO -  * Restarting with stat
+2025-04-17 11:45:37,535 - WARNING -  * Debugger is active!
+2025-04-17 11:45:37,550 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:46:14,277 - INFO - 127.0.0.1 - - [17/Apr/2025 11:46:14] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:46:18,328 - INFO - 127.0.0.1 - - [17/Apr/2025 11:46:18] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:46:22,735 - INFO - 127.0.0.1 - - [17/Apr/2025 11:46:22] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:46:27,727 - INFO - 127.0.0.1 - - [17/Apr/2025 11:46:27] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:46:32,726 - ERROR - Error during sign up for mkjufgcbn: [WinError 3] The system cannot find the path specified: 'Data\\mkjufgcbn'
+2025-04-17 11:46:32,742 - INFO - 127.0.0.1 - - [17/Apr/2025 11:46:32] "POST /register HTTP/1.1" 200 -
+2025-04-17 11:56:46,292 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-17 11:56:46,966 - INFO -  * Restarting with stat
+2025-04-17 11:57:01,934 - WARNING -  * Debugger is active!
+2025-04-17 11:57:01,934 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:57:43,891 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-17 11:57:44,492 - INFO -  * Restarting with stat
+2025-04-17 11:57:50,825 - WARNING -  * Debugger is active!
+2025-04-17 11:57:50,825 - INFO -  * Debugger PIN: 816-571-228
+2025-04-17 11:58:47,769 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-17 11:58:48,347 - INFO -  * Restarting with stat
+2025-04-18 09:54:27,273 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 09:54:27,273 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 09:54:27,277 - INFO -  * Restarting with stat
+2025-04-18 09:54:38,187 - WARNING -  * Debugger is active!
+2025-04-18 09:54:38,205 - INFO -  * Debugger PIN: 816-571-228
+2025-04-18 09:55:35,647 - INFO - 127.0.0.1 - - [18/Apr/2025 09:55:35] "GET / HTTP/1.1" 200 -
+2025-04-18 09:55:37,743 - INFO - 127.0.0.1 - - [18/Apr/2025 09:55:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-18 09:56:16,370 - INFO - 127.0.0.1 - - [18/Apr/2025 09:56:16] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:56:28,486 - INFO - 127.0.0.1 - - [18/Apr/2025 09:56:28] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:56:32,509 - INFO - 127.0.0.1 - - [18/Apr/2025 09:56:32] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:57:21,486 - INFO - 127.0.0.1 - - [18/Apr/2025 09:57:21] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:57:25,521 - INFO - 127.0.0.1 - - [18/Apr/2025 09:57:25] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:57:30,502 - INFO - Found 5 WAV files in 'Data\lkjhgfd'.
+2025-04-18 09:57:35,518 - INFO - Found 5 WAV files in 'Data\lkjhgfd'.
+2025-04-18 09:57:40,550 - INFO - Found 5 WAV files in 'Data\lkjhgfd'.
+2025-04-18 09:58:22,962 - ERROR - Error reading file Data\lkjhgfd\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:22,962 - ERROR - Error reading file Data\lkjhgfd\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:22,962 - ERROR - Error reading file Data\lkjhgfd\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:23,065 - ERROR - Error reading file Data\lkjhgfd\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:23,073 - ERROR - Error reading file Data\lkjhgfd\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:23,925 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 09:58:23,938 - INFO - 127.0.0.1 - - [18/Apr/2025 09:58:23] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:58:28,735 - ERROR - Error reading file Data\lkjhgfd\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:28,735 - ERROR - Error reading file Data\lkjhgfd\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:28,735 - ERROR - Error reading file Data\lkjhgfd\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:28,735 - ERROR - Error reading file Data\lkjhgfd\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:28,735 - ERROR - Error reading file Data\lkjhgfd\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:28,906 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 09:58:28,915 - INFO - 127.0.0.1 - - [18/Apr/2025 09:58:28] "POST /register HTTP/1.1" 200 -
+2025-04-18 09:58:33,754 - ERROR - Error reading file Data\lkjhgfd\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:33,754 - ERROR - Error reading file Data\lkjhgfd\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:33,754 - ERROR - Error reading file Data\lkjhgfd\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:33,754 - ERROR - Error reading file Data\lkjhgfd\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:33,754 - ERROR - Error reading file Data\lkjhgfd\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 09:58:33,931 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 09:58:33,931 - INFO - 127.0.0.1 - - [18/Apr/2025 09:58:33] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:51:23,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 10:51:23,068 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 10:51:23,070 - INFO -  * Restarting with stat
+2025-04-18 10:51:28,868 - WARNING -  * Debugger is active!
+2025-04-18 10:51:28,885 - INFO -  * Debugger PIN: 816-571-228
+2025-04-18 10:51:40,703 - INFO - 127.0.0.1 - - [18/Apr/2025 10:51:40] "GET / HTTP/1.1" 200 -
+2025-04-18 10:52:03,505 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:03] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:52:11,852 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:11] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:52:19,056 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:19] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:52:24,191 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:24] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:52:29,887 - INFO - Found 5 WAV files in 'Data\harshdeoraviiii'.
+2025-04-18 10:52:43,326 - ERROR - Error reading file Data\harshdeoraviiii\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 10:52:43,343 - ERROR - Error reading file Data\harshdeoraviiii\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 10:52:43,345 - ERROR - Error reading file Data\harshdeoraviiii\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 10:52:43,352 - ERROR - Error reading file Data\harshdeoraviiii\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 10:52:43,353 - ERROR - Error reading file Data\harshdeoraviiii\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 10:52:43,470 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 10:52:43,470 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:43] "POST /register HTTP/1.1" 200 -
+2025-04-18 10:52:47,084 - INFO - 127.0.0.1 - - [18/Apr/2025 10:52:47] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:39:16,743 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-18 11:39:16,743 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-18 11:39:16,743 - INFO -  * Restarting with stat
+2025-04-18 11:39:23,260 - WARNING -  * Debugger is active!
+2025-04-18 11:39:23,260 - INFO -  * Debugger PIN: 816-571-228
+2025-04-18 11:39:36,838 - INFO - 127.0.0.1 - - [18/Apr/2025 11:39:36] "GET / HTTP/1.1" 200 -
+2025-04-18 11:39:55,363 - INFO - 127.0.0.1 - - [18/Apr/2025 11:39:55] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:02,798 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:02] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:13,815 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:13] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:17,664 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:17] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:19,340 - INFO - Found 5 WAV files in 'Data\;lasioufcgvasbnc'.
+2025-04-18 11:40:21,267 - INFO - Found 5 WAV files in 'Data\;lasioufcgvasbnc'.
+2025-04-18 11:40:22,688 - INFO - Found 5 WAV files in 'Data\;lasioufcgvasbnc'.
+2025-04-18 11:40:24,850 - INFO - Found 5 WAV files in 'Data\;lasioufcgvasbnc'.
+2025-04-18 11:40:32,407 - INFO - Found 5 WAV files in 'Data\;lasioufcgvasbnc'.
+2025-04-18 11:40:41,066 - ERROR - Error reading file Data\;lasioufcgvasbnc\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:41,081 - ERROR - Error reading file Data\;lasioufcgvasbnc\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:41,091 - ERROR - Error reading file Data\;lasioufcgvasbnc\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:41,102 - ERROR - Error reading file Data\;lasioufcgvasbnc\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:41,115 - ERROR - Error reading file Data\;lasioufcgvasbnc\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:41,446 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 11:40:41,497 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:41] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:50,944 - ERROR - Error reading file Data\;lasioufcgvasbnc\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:50,945 - ERROR - Error reading file Data\;lasioufcgvasbnc\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:50,945 - ERROR - Error reading file Data\;lasioufcgvasbnc\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:50,945 - ERROR - Error reading file Data\;lasioufcgvasbnc\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:50,945 - ERROR - Error reading file Data\;lasioufcgvasbnc\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:51,895 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 11:40:51,935 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:51] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:52,198 - ERROR - Error reading file Data\;lasioufcgvasbnc\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:52,198 - ERROR - Error reading file Data\;lasioufcgvasbnc\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:52,198 - ERROR - Error reading file Data\;lasioufcgvasbnc\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:52,198 - ERROR - Error reading file Data\;lasioufcgvasbnc\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:52,199 - ERROR - Error reading file Data\;lasioufcgvasbnc\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:52,697 - WARNING - No features were loaded. Please check your audio files.
+2025-04-18 11:40:56,563 - INFO - 127.0.0.1 - - [18/Apr/2025 11:40:56] "POST /register HTTP/1.1" 200 -
+2025-04-18 11:40:58,109 - ERROR - Error reading file Data\;lasioufcgvasbnc\1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:58,109 - ERROR - Error reading file Data\;lasioufcgvasbnc\2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:58,109 - ERROR - Error reading file Data\;lasioufcgvasbnc\3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:58,109 - ERROR - Error reading file Data\;lasioufcgvasbnc\4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-18 11:40:58,109 - ERROR - Error reading file Data\;lasioufcgvasbnc\5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 14:26:01,861 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-23 14:26:01,869 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 14:26:01,870 - INFO -  * Restarting with stat
+2025-04-23 14:26:12,377 - WARNING -  * Debugger is active!
+2025-04-23 14:26:12,401 - INFO -  * Debugger PIN: 816-571-228
+2025-04-23 14:26:17,084 - INFO - 127.0.0.1 - - [23/Apr/2025 14:26:17] "GET / HTTP/1.1" 200 -
+2025-04-23 14:26:17,133 - INFO - 127.0.0.1 - - [23/Apr/2025 14:26:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2025-04-23 14:26:18,583 - INFO - 127.0.0.1 - - [23/Apr/2025 14:26:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 14:26:31,101 - INFO - 127.0.0.1 - - [23/Apr/2025 14:26:31] "[33mGET /home2.html HTTP/1.1[0m" 404 -
+2025-04-23 14:38:45,637 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-23 14:38:46,603 - INFO -  * Restarting with stat
+2025-04-23 14:38:57,756 - WARNING -  * Debugger is active!
+2025-04-23 14:38:57,772 - INFO -  * Debugger PIN: 816-571-228
+2025-04-23 14:39:08,097 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-23 14:39:08,749 - INFO -  * Restarting with stat
+2025-04-23 14:51:14,380 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-23 14:51:14,380 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 14:51:14,380 - INFO -  * Restarting with stat
+2025-04-23 14:51:26,777 - WARNING -  * Debugger is active!
+2025-04-23 14:51:26,777 - INFO -  * Debugger PIN: 816-571-228
+2025-04-23 14:51:27,156 - INFO - 127.0.0.1 - - [23/Apr/2025 14:51:27] "GET / HTTP/1.1" 200 -
+2025-04-23 14:51:27,479 - INFO - 127.0.0.1 - - [23/Apr/2025 14:51:27] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-23 14:51:32,964 - INFO - 127.0.0.1 - - [23/Apr/2025 14:51:32] "[33mGET /home2.html HTTP/1.1[0m" 404 -
+2025-04-23 14:52:10,856 - INFO - 127.0.0.1 - - [23/Apr/2025 14:52:10] "GET / HTTP/1.1" 200 -
+2025-04-23 14:52:10,896 - INFO - 127.0.0.1 - - [23/Apr/2025 14:52:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 14:52:13,233 - INFO - 127.0.0.1 - - [23/Apr/2025 14:52:13] "GET /home2 HTTP/1.1" 200 -
+2025-04-23 14:52:13,278 - INFO - 127.0.0.1 - - [23/Apr/2025 14:52:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 14:54:08,966 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:08] "[33mGET /login/page1.html HTTP/1.1[0m" 404 -
+2025-04-23 14:54:13,445 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:13] "GET /home2 HTTP/1.1" 200 -
+2025-04-23 14:54:13,486 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 14:54:15,276 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:15] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-23 14:54:15,316 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:15] "GET /static/css/loginStyle.css HTTP/1.1" 200 -
+2025-04-23 14:54:20,547 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:20] "[33mGET /login/login/page2 HTTP/1.1[0m" 404 -
+2025-04-23 14:54:25,315 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:25] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-23 14:54:25,356 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:25] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:54:27,636 - INFO - 127.0.0.1 - - [23/Apr/2025 14:54:27] "[33mGET /login/login/page2 HTTP/1.1[0m" 404 -
+2025-04-23 14:55:07,054 - INFO - 127.0.0.1 - - [23/Apr/2025 14:55:07] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-23 14:55:07,086 - INFO - 127.0.0.1 - - [23/Apr/2025 14:55:07] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:55:12,032 - INFO - 127.0.0.1 - - [23/Apr/2025 14:55:12] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-23 14:55:12,069 - INFO - 127.0.0.1 - - [23/Apr/2025 14:55:12] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:56:01,727 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:01] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-23 14:56:01,760 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:01] "GET /static/css/registerStyle.css HTTP/1.1" 200 -
+2025-04-23 14:56:07,703 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:07] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-23 14:56:07,754 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:07] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:56:14,080 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:14] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-23 14:56:14,126 - INFO - 127.0.0.1 - - [23/Apr/2025 14:56:14] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:59:01,203 - INFO - 127.0.0.1 - - [23/Apr/2025 14:59:01] "[33mGET /register/page2.html HTTP/1.1[0m" 404 -
+2025-04-23 14:59:12,130 - INFO - 127.0.0.1 - - [23/Apr/2025 14:59:12] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-23 14:59:12,163 - INFO - 127.0.0.1 - - [23/Apr/2025 14:59:12] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 14:59:16,615 - INFO - 127.0.0.1 - - [23/Apr/2025 14:59:16] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-23 14:59:16,655 - INFO - 127.0.0.1 - - [23/Apr/2025 14:59:16] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 15:08:16,267 - INFO - 127.0.0.1 - - [23/Apr/2025 15:08:16] "POST /register HTTP/1.1" 200 -
+2025-04-23 15:09:19,569 - INFO - 127.0.0.1 - - [23/Apr/2025 15:09:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 19:18:47,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-23 19:18:47,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 19:18:47,621 - INFO -  * Restarting with stat
+2025-04-23 19:18:56,036 - WARNING -  * Debugger is active!
+2025-04-23 19:18:56,056 - INFO -  * Debugger PIN: 816-571-228
+2025-04-23 19:20:02,657 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:02] "GET / HTTP/1.1" 200 -
+2025-04-23 19:20:03,125 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 19:20:04,521 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-23 19:20:06,747 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:06] "GET /home2 HTTP/1.1" 200 -
+2025-04-23 19:20:06,788 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 19:20:10,001 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:10] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-23 19:20:10,044 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:10] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 19:20:13,215 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:13] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-23 19:20:13,245 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:13] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 19:20:31,514 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:31] "POST /register HTTP/1.1" 200 -
+2025-04-23 19:20:37,604 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:37] "GET /register/page3?username=nnnnnn HTTP/1.1" 200 -
+2025-04-23 19:20:37,651 - INFO - 127.0.0.1 - - [23/Apr/2025 19:20:37] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 19:21:11,227 - INFO - 127.0.0.1 - - [23/Apr/2025 19:21:11] "GET /register/page4?username=nnnnnn HTTP/1.1" 200 -
+2025-04-23 19:21:11,265 - INFO - 127.0.0.1 - - [23/Apr/2025 19:21:11] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 19:21:19,983 - INFO - 127.0.0.1 - - [23/Apr/2025 19:21:19] "[33mGET /register/page5.html HTTP/1.1[0m" 404 -
+2025-04-23 20:22:44,639 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-23 20:22:44,639 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-23 20:22:44,639 - INFO -  * Restarting with stat
+2025-04-23 20:22:54,487 - WARNING -  * Debugger is active!
+2025-04-23 20:22:54,487 - INFO -  * Debugger PIN: 816-571-228
+2025-04-23 20:23:21,037 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:21] "GET / HTTP/1.1" 200 -
+2025-04-23 20:23:21,450 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 20:23:33,620 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:33] "GET /home2 HTTP/1.1" 200 -
+2025-04-23 20:23:33,659 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 20:23:36,373 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:36] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-23 20:23:36,410 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:36] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:23:39,263 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:39] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-23 20:23:39,293 - INFO - 127.0.0.1 - - [23/Apr/2025 20:23:39] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:24:08,341 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:08] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:24:12,392 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:12] "GET /register/page3?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:24:12,424 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:12] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:24:32,865 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:32] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:24:36,705 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:36] "GET /register/page4?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:24:36,741 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:36] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:24:44,876 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:44] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:24:48,370 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:48] "GET /register/page5?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:24:48,429 - INFO - 127.0.0.1 - - [23/Apr/2025 20:24:48] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:25:05,606 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:05] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:25:09,491 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:09] "GET /register/page5?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:25:09,532 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:09] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:25:22,426 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:22] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:25:27,028 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:27] "GET /register/page5?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:25:27,060 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:27] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:25:39,463 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:39] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:25:42,748 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:42] "GET /register/page5?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:25:42,779 - INFO - 127.0.0.1 - - [23/Apr/2025 20:25:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:26:37,379 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:37] "GET /register/page5?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:26:37,422 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:37] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:26:40,927 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:40] "GET /register/page6?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:26:40,970 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:40] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:26:43,448 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:43] "GET /register/page6?username=bbbbbb HTTP/1.1" 200 -
+2025-04-23 20:26:43,474 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:26:46,591 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:46] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-23 20:26:46,626 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:46] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:26:50,827 - INFO - 127.0.0.1 - - [23/Apr/2025 20:26:50] "[33mGET /home HTTP/1.1[0m" 404 -
+2025-04-23 20:27:32,436 - INFO - 127.0.0.1 - - [23/Apr/2025 20:27:32] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-23 20:27:32,490 - INFO - 127.0.0.1 - - [23/Apr/2025 20:27:32] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-23 20:27:34,509 - INFO - 127.0.0.1 - - [23/Apr/2025 20:27:34] "GET / HTTP/1.1" 200 -
+2025-04-23 20:27:34,553 - INFO - 127.0.0.1 - - [23/Apr/2025 20:27:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-23 20:28:04,387 - INFO - Found 5 WAV files in 'Data\bbbbbb'.
+2025-04-23 20:28:08,231 - INFO - Found 5 WAV files in 'Data\bbbbbb'.
+2025-04-23 20:28:39,793 - ERROR - Error reading file Data\bbbbbb\sample_1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:39,808 - ERROR - Error reading file Data\bbbbbb\sample_2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:39,839 - ERROR - Error reading file Data\bbbbbb\sample_3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:39,876 - ERROR - Error reading file Data\bbbbbb\sample_4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:39,908 - ERROR - Error reading file Data\bbbbbb\sample_5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:40,252 - WARNING - No features were loaded. Please check your audio files.
+2025-04-23 20:28:40,324 - INFO - 127.0.0.1 - - [23/Apr/2025 20:28:40] "POST /register HTTP/1.1" 200 -
+2025-04-23 20:28:44,804 - ERROR - Error reading file Data\bbbbbb\sample_1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:44,804 - ERROR - Error reading file Data\bbbbbb\sample_2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:44,804 - ERROR - Error reading file Data\bbbbbb\sample_3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:44,804 - ERROR - Error reading file Data\bbbbbb\sample_4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:44,804 - ERROR - Error reading file Data\bbbbbb\sample_5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-23 20:28:44,917 - WARNING - No features were loaded. Please check your audio files.
+2025-04-23 20:28:44,917 - INFO - 127.0.0.1 - - [23/Apr/2025 20:28:44] "POST /register HTTP/1.1" 200 -
+2025-04-23 22:45:32,918 - INFO - Found 5 WAV files in 'Data\harshdeoravi'.
+2025-04-23 22:45:51,702 - INFO - Successfully read file: sample_2.wav with sample rate: 44100
+2025-04-23 22:45:51,702 - INFO - Successfully read file: sample_4.wav with sample rate: 44100
+2025-04-23 22:45:51,702 - INFO - Successfully read file: sample_3.wav with sample rate: 44100
+2025-04-23 22:45:51,702 - INFO - Successfully read file: sample_1.wav with sample rate: 44100
+2025-04-23 22:45:51,718 - INFO - Successfully read file: sample_5.wav with sample rate: 44100
+2025-04-23 22:45:51,906 - INFO - Extracted MFCC features shape: (999, 20)
+2025-04-23 22:45:51,906 - INFO - Feature Variance: [  8.35240582 152.31384389 129.14497389 319.30386599 328.07360912
+ 366.04163083 456.33171221 205.54025694 200.12028555 243.58068737
+ 268.80021329 170.41002646 146.64037229 126.87543539  57.42433945
+ 106.85717466  37.92973235  31.51318078  14.67327792   5.61082745]
+2025-04-23 22:45:51,906 - INFO - Feature Variance: [  7.75644067 164.27981357 149.93674136 301.26177449 285.58329395
+ 299.86540727 379.24132923 269.29809972 249.2770117  216.71201949
+ 287.31689476 230.66305146 148.03694764 138.98979863  72.48535161
+ 107.49415409  38.79133412  30.25109232  13.66775378   6.66867256]
+2025-04-23 22:45:51,906 - INFO - Feature Variance: [  8.45780917 135.67757193 138.37452649 277.61146179 341.40672614
+ 363.46323472 529.21349141 267.72103767 243.67371294 221.3358326
+ 297.87331955 182.36225028 147.58048526 122.93360325  73.67475517
+ 102.0835021   42.76850061  32.90027908  18.26342829   8.50099655 ]
+2025-04-23 22:45:51,921 - INFO - Features extracted from sample_2.wav: shape (999, 40)
+2025-04-23 22:45:51,921 - INFO - Features extracted from sample_3.wav: shape (999, 40)
+2025-04-23 22:45:51,921 - INFO - Features extracted from sample_4.wav: shape (999, 40)
+2025-04-23 22:45:51,921 - INFO - Features extracted from sample_1.wav: shape (999, 40)
+2025-04-23 22:45:51,921 - INFO - Features extracted from sample_5.wav: shape (999, 40)
+2025-04-23 22:45:52,082 - INFO - Total features concatenated: (4995, 40)
+2025-04-23 22:45:52,135 - INFO - UBM Means shape: (32, 40)
+2025-04-23 22:45:52,135 - INFO - UBM Covariances shape: (32, 40)
+2025-04-23 22:45:52,135 - INFO - Fitting the GMM model to the extracted features...
+2025-04-23 22:45:53,292 - INFO - GMM model training completed successfully in 1.16 seconds.
+2025-04-23 22:45:53,313 - INFO - GMM model trained and saved successfully at C:\Users\LENOVO\Desktop\speaker\voiceauth\model\harshdeoravi.gmm.
+2025-04-23 23:31:10,847 - INFO - Using device: cpu
+2025-04-23 23:31:11,001 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-23 23:31:11,001 - INFO - Best validation accuracy: 70.05%
+2025-04-23 23:31:11,322 - INFO - Extracted MFCC features shape: (999, 20)
+2025-04-23 23:31:11,322 - INFO - Feature Variance: [4.08118785e-03 4.33275678e+00 7.79247734e+00 8.96237261e+00
+ 9.25039779e+00 9.32294980e+00 1.48269152e+01 1.98072315e+01
+ 1.05742244e+01 2.00332638e+01 1.05620065e+01 4.89200391e+00
+ 6.85241143e+00 1.16029141e+01 9.61792802e+00 6.42370102e+00
+ 4.31194826e+00 3.87732357e+00 8.60221871e-01 6.43936193e-01]
+2025-04-25 09:28:26,357 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 09:28:26,357 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 09:28:26,357 - INFO -  * Restarting with stat
+2025-04-25 09:28:37,924 - WARNING -  * Debugger is active!
+2025-04-25 09:28:37,939 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 09:28:55,432 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:55] "GET / HTTP/1.1" 200 -
+2025-04-25 09:28:55,672 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 09:28:57,462 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-25 09:28:59,160 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:59] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 09:28:59,193 - INFO - 127.0.0.1 - - [25/Apr/2025 09:28:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 09:29:02,023 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:02] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-25 09:29:02,091 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:02] "GET /static/css/loginStyle.css HTTP/1.1" 200 -
+2025-04-25 09:29:05,365 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:05] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 09:29:05,397 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:05] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:29:29,163 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:29] "[31m[1mPOST /check-user HTTP/1.1[0m" 415 -
+2025-04-25 09:29:43,555 - INFO - 127.0.0.1 - - [25/Apr/2025 09:29:43] "[31m[1mPOST /check-user HTTP/1.1[0m" 415 -
+2025-04-25 09:33:22,341 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\main.py', reloading
+2025-04-25 09:33:23,896 - INFO -  * Restarting with stat
+2025-04-25 09:33:40,957 - WARNING -  * Debugger is active!
+2025-04-25 09:33:40,965 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 09:38:50,509 - INFO - 127.0.0.1 - - [25/Apr/2025 09:38:50] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 09:38:50,658 - INFO - 127.0.0.1 - - [25/Apr/2025 09:38:50] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:39:02,288 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:02] "[31m[1mPOST /check-user HTTP/1.1[0m" 415 -
+2025-04-25 09:39:11,220 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:11] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:39:46,949 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:46] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 09:39:46,981 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:46] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:39:49,253 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:49] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 09:39:49,285 - INFO - 127.0.0.1 - - [25/Apr/2025 09:39:49] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:40:01,771 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:01] "POST /register HTTP/1.1" 200 -
+2025-04-25 09:40:05,165 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:05] "GET /register/page3?username=21BCS10985 HTTP/1.1" 200 -
+2025-04-25 09:40:05,190 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:05] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:40:15,356 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:15] "POST /register HTTP/1.1" 200 -
+2025-04-25 09:40:18,533 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:18] "GET /register/page4?username=21BCS10985 HTTP/1.1" 200 -
+2025-04-25 09:40:18,550 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:18] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:40:31,046 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:31] "POST /register HTTP/1.1" 200 -
+2025-04-25 09:40:35,246 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:35] "GET /register/page5?username=21BCS10985 HTTP/1.1" 200 -
+2025-04-25 09:40:35,270 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:35] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:40:45,571 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:45] "POST /register HTTP/1.1" 200 -
+2025-04-25 09:40:49,164 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:49] "GET /register/page6?username=21BCS10985 HTTP/1.1" 200 -
+2025-04-25 09:40:49,187 - INFO - 127.0.0.1 - - [25/Apr/2025 09:40:49] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:41:03,313 - INFO - 127.0.0.1 - - [25/Apr/2025 09:41:03] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-25 09:41:03,387 - INFO - 127.0.0.1 - - [25/Apr/2025 09:41:03] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 09:41:04,822 - ERROR - Error during sign up for 21BCS10985: 
+2025-04-25 09:41:04,885 - INFO - 127.0.0.1 - - [25/Apr/2025 09:41:04] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:02:31,079 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 10:02:31,079 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 10:02:31,095 - INFO -  * Restarting with stat
+2025-04-25 10:02:37,544 - WARNING -  * Debugger is active!
+2025-04-25 10:02:37,559 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 10:02:37,866 - INFO - 127.0.0.1 - - [25/Apr/2025 10:02:37] "GET / HTTP/1.1" 200 -
+2025-04-25 10:02:37,867 - INFO - 127.0.0.1 - - [25/Apr/2025 10:02:37] "GET / HTTP/1.1" 200 -
+2025-04-25 10:02:37,951 - INFO - 127.0.0.1 - - [25/Apr/2025 10:02:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:02:48,591 - INFO - 127.0.0.1 - - [25/Apr/2025 10:02:48] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 10:02:48,618 - INFO - 127.0.0.1 - - [25/Apr/2025 10:02:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:03:01,377 - INFO - 127.0.0.1 - - [25/Apr/2025 10:03:01] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-25 10:03:01,445 - INFO - 127.0.0.1 - - [25/Apr/2025 10:03:01] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:03:04,097 - INFO - 127.0.0.1 - - [25/Apr/2025 10:03:04] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:03:04,119 - INFO - 127.0.0.1 - - [25/Apr/2025 10:03:04] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:03:28,761 - INFO - 127.0.0.1 - - [25/Apr/2025 10:03:28] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:04:55,900 - INFO - 127.0.0.1 - - [25/Apr/2025 10:04:55] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:04:55,925 - INFO - 127.0.0.1 - - [25/Apr/2025 10:04:55] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:05:08,467 - INFO - 127.0.0.1 - - [25/Apr/2025 10:05:08] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:06:40,528 - INFO - 127.0.0.1 - - [25/Apr/2025 10:06:40] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:06:40,553 - INFO - 127.0.0.1 - - [25/Apr/2025 10:06:40] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:06:49,335 - INFO - 127.0.0.1 - - [25/Apr/2025 10:06:49] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:09:50,449 - INFO - 127.0.0.1 - - [25/Apr/2025 10:09:50] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:09:50,474 - INFO - 127.0.0.1 - - [25/Apr/2025 10:09:50] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:10:03,486 - INFO - 127.0.0.1 - - [25/Apr/2025 10:10:03] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:10:43,250 - INFO - 127.0.0.1 - - [25/Apr/2025 10:10:43] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:10:43,278 - INFO - 127.0.0.1 - - [25/Apr/2025 10:10:43] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:10:49,058 - INFO - 127.0.0.1 - - [25/Apr/2025 10:10:49] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:15:41,112 - INFO - 127.0.0.1 - - [25/Apr/2025 10:15:41] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:15:41,139 - INFO - 127.0.0.1 - - [25/Apr/2025 10:15:41] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:15:45,965 - INFO - 127.0.0.1 - - [25/Apr/2025 10:15:45] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:16:09,518 - INFO - 127.0.0.1 - - [25/Apr/2025 10:16:09] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:16:09,544 - INFO - 127.0.0.1 - - [25/Apr/2025 10:16:09] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:16:14,373 - INFO - 127.0.0.1 - - [25/Apr/2025 10:16:14] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:16:25,715 - INFO - 127.0.0.1 - - [25/Apr/2025 10:16:25] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:17:42,846 - INFO - 127.0.0.1 - - [25/Apr/2025 10:17:42] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:17:42,875 - INFO - 127.0.0.1 - - [25/Apr/2025 10:17:42] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:17:48,830 - INFO - 127.0.0.1 - - [25/Apr/2025 10:17:48] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:18:04,547 - INFO - 127.0.0.1 - - [25/Apr/2025 10:18:04] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:18:04,570 - INFO - 127.0.0.1 - - [25/Apr/2025 10:18:04] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:18:13,742 - INFO - 127.0.0.1 - - [25/Apr/2025 10:18:13] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:18:32,011 - INFO - 127.0.0.1 - - [25/Apr/2025 10:18:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-25 10:21:04,446 - INFO - 127.0.0.1 - - [25/Apr/2025 10:21:04] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-25 10:21:04,473 - INFO - 127.0.0.1 - - [25/Apr/2025 10:21:04] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:21:10,199 - INFO - 127.0.0.1 - - [25/Apr/2025 10:21:10] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 10:21:18,670 - INFO - 127.0.0.1 - - [25/Apr/2025 10:21:18] "POST /login HTTP/1.1" 200 -
+2025-04-25 10:21:24,596 - INFO - 127.0.0.1 - - [25/Apr/2025 10:21:24] "[33mGET /login/page3?username= HTTP/1.1[0m" 404 -
+2025-04-25 10:24:55,767 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 10:24:55,767 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 10:24:55,767 - INFO -  * Restarting with stat
+2025-04-25 10:25:01,645 - WARNING -  * Debugger is active!
+2025-04-25 10:25:01,645 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 10:25:07,827 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:07] "GET /login/page3?username= HTTP/1.1" 200 -
+2025-04-25 10:25:07,909 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:07] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:25:37,533 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:37] "GET / HTTP/1.1" 200 -
+2025-04-25 10:25:37,556 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:25:41,158 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:41] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 10:25:41,183 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:25:43,385 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:43] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 10:25:43,411 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:25:45,668 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:45] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 10:25:45,695 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:45] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:25:58,802 - INFO - 127.0.0.1 - - [25/Apr/2025 10:25:58] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:26:08,797 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:08] "GET /register/page3?username=abcd HTTP/1.1" 200 -
+2025-04-25 10:26:08,817 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:08] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:26:16,621 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:16] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:26:21,588 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:21] "GET /register/page4?username=abcd HTTP/1.1" 200 -
+2025-04-25 10:26:21,602 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:21] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:26:28,488 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:28] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:26:32,059 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:32] "GET /register/page5?username=abcd HTTP/1.1" 200 -
+2025-04-25 10:26:32,085 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:32] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:26:43,503 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:43] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:26:47,422 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:47] "GET /register/page6?username=abcd HTTP/1.1" 200 -
+2025-04-25 10:26:47,448 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:47] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:26:59,425 - ERROR - Error during sign up for abcd: 
+2025-04-25 10:26:59,513 - INFO - 127.0.0.1 - - [25/Apr/2025 10:26:59] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:27:00,382 - INFO - 127.0.0.1 - - [25/Apr/2025 10:27:00] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-25 10:27:00,405 - INFO - 127.0.0.1 - - [25/Apr/2025 10:27:00] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:27:03,486 - INFO - 127.0.0.1 - - [25/Apr/2025 10:27:03] "GET / HTTP/1.1" 200 -
+2025-04-25 10:27:03,526 - INFO - 127.0.0.1 - - [25/Apr/2025 10:27:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:38:01,473 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\register_user.py', reloading
+2025-04-25 10:38:02,190 - INFO -  * Restarting with stat
+2025-04-25 10:40:15,155 - INFO - Found 5 WAV files in 'Data\harsh'.
+2025-04-25 10:40:27,544 - INFO - Successfully read file: sample_1.wav with sample rate: 44100
+2025-04-25 10:40:27,544 - INFO - Successfully read file: sample_5.wav with sample rate: 44100
+2025-04-25 10:40:27,544 - INFO - Successfully read file: sample_2.wav with sample rate: 44100
+2025-04-25 10:40:27,716 - INFO - Extracted MFCC features shape: (999, 20)
+2025-04-25 10:40:27,716 - INFO - Feature Variance: [  8.07896966 178.15405682 139.32511844 320.36772704 328.23079665
+ 316.14804154 487.15895765 221.98411748 207.61271401 229.74227407
+ 237.43308485 178.30346603 132.56920545 122.08645453  64.45631244
+  99.2240827   34.4991398   28.98777771  13.86702117   6.1099655 ]
+2025-04-25 10:40:27,716 - INFO - Extracted MFCC features shape: (999, 20)
+2025-04-25 10:40:27,716 - INFO - Feature Variance: [  8.35240582 152.31384389 129.14497389 319.30386599 328.07360912
+ 366.04163083 456.33171221 205.54025694 200.12028555 243.58068737
+ 268.80021329 170.41002646 146.64037229 126.87543539  57.42433945
+ 106.85717466  37.92973235  31.51318078  14.67327792   5.61082745]
+2025-04-25 10:40:27,716 - INFO - Extracted MFCC features shape: (999, 20)
+2025-04-25 10:40:27,716 - INFO - Feature Variance: [  8.77064968 168.65037861 139.85425252 357.41689043 317.11949125
+ 364.10477131 508.86475826 246.79737091 198.51707873 211.61693854
+ 218.65657333 172.75768188 126.15441139 143.41736932  54.00505123
+  86.92754941  43.14038008  30.3133492   15.42180368   6.05494189]
+2025-04-25 10:40:27,731 - INFO - Features extracted from sample_5.wav: shape (999, 40)
+2025-04-25 10:40:27,731 - INFO - Features extracted from sample_2.wav: shape (999, 40)
+2025-04-25 10:40:27,731 - INFO - Features extracted from sample_3.wav: shape (999, 40)
+2025-04-25 10:40:27,731 - INFO - Features extracted from sample_1.wav: shape (999, 40)
+2025-04-25 10:40:27,731 - INFO - Features extracted from sample_4.wav: shape (999, 40)
+2025-04-25 10:40:27,822 - INFO - Total features concatenated: (4995, 40)
+2025-04-25 10:40:27,881 - INFO - UBM Means shape: (32, 40)
+2025-04-25 10:40:27,881 - INFO - UBM Covariances shape: (32, 40)
+2025-04-25 10:40:27,881 - INFO - Fitting the GMM model to the extracted features...
+2025-04-25 10:40:28,639 - INFO - GMM model training completed successfully in 0.76 seconds.
+2025-04-25 10:40:28,658 - INFO - GMM model trained and saved successfully at C:\Users\LENOVO\Desktop\speaker\voiceauth\model\harsh.gmm.
+2025-04-25 10:41:33,573 - INFO - Found 5 WAV files in 'Data\abcd'.
+2025-04-25 10:41:43,841 - ERROR - Error reading file Data\abcd\sample_1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 10:41:43,841 - ERROR - Error reading file Data\abcd\sample_2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 10:41:43,841 - ERROR - Error reading file Data\abcd\sample_3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 10:41:43,841 - ERROR - Error reading file Data\abcd\sample_4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 10:41:43,841 - ERROR - Error reading file Data\abcd\sample_5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 10:41:43,929 - WARNING - No features were loaded. Please check your audio files.
+2025-04-25 10:53:40,089 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 10:53:40,090 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 10:53:40,092 - INFO -  * Restarting with stat
+2025-04-25 10:53:46,131 - WARNING -  * Debugger is active!
+2025-04-25 10:53:46,146 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 10:54:03,515 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:03] "GET / HTTP/1.1" 200 -
+2025-04-25 10:54:03,614 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:54:05,926 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:05] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 10:54:05,961 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 10:54:07,689 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:07] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 10:54:07,722 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:54:10,035 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:10] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 10:54:10,060 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:10] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 10:54:20,723 - INFO - 127.0.0.1 - - [25/Apr/2025 10:54:20] "POST /register HTTP/1.1" 200 -
+2025-04-25 10:58:09,356 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-25 10:58:09,959 - INFO -  * Restarting with stat
+2025-04-25 10:58:16,283 - WARNING -  * Debugger is active!
+2025-04-25 10:58:16,283 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 11:05:42,304 - INFO - 127.0.0.1 - - [25/Apr/2025 11:05:42] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:05:42,387 - INFO - 127.0.0.1 - - [25/Apr/2025 11:05:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:06:00,401 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:00] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:06:04,764 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:04] "GET /register/page3?username=mmmm HTTP/1.1" 200 -
+2025-04-25 11:06:04,786 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:04] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:06:12,242 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:12] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:06:15,694 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:15] "GET /register/page4?username=mmmm HTTP/1.1" 200 -
+2025-04-25 11:06:15,720 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:15] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:06:28,103 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:28] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:06:30,896 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:30] "GET /register/page5?username=mmmm HTTP/1.1" 200 -
+2025-04-25 11:06:30,917 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:30] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:06:38,720 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:38] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:06:42,222 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:42] "GET /register/page6?username=mmmm HTTP/1.1" 200 -
+2025-04-25 11:06:42,248 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:06:53,505 - INFO - Found 5 WAV files in 'Data\mmmm'.
+2025-04-25 11:06:54,839 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:54] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-25 11:06:54,877 - INFO - 127.0.0.1 - - [25/Apr/2025 11:06:54] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:07:06,874 - ERROR - Error reading file Data\mmmm\sample_1.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 11:07:06,874 - ERROR - Error reading file Data\mmmm\sample_4.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 11:07:06,874 - ERROR - Error reading file Data\mmmm\sample_3.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 11:07:06,874 - ERROR - Error reading file Data\mmmm\sample_2.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 11:07:06,874 - ERROR - Error reading file Data\mmmm\sample_5.wav: File format b'\x1aE\xdf\xa3' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.
+2025-04-25 11:07:06,970 - WARNING - No features were loaded. Please check your audio files.
+2025-04-25 11:07:06,970 - INFO - 127.0.0.1 - - [25/Apr/2025 11:07:06] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:17:42,066 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-25 11:17:42,978 - INFO -  * Restarting with stat
+2025-04-25 11:17:50,384 - WARNING -  * Debugger is active!
+2025-04-25 11:17:50,384 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 11:20:29,256 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 11:20:29,256 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 11:20:29,261 - INFO -  * Restarting with stat
+2025-04-25 11:20:35,714 - WARNING -  * Debugger is active!
+2025-04-25 11:20:35,714 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 11:20:35,972 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:35] "GET / HTTP/1.1" 200 -
+2025-04-25 11:20:36,056 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 11:20:38,452 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:38] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 11:20:38,481 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 11:20:40,487 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:40] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 11:20:40,520 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:40] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:20:42,509 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:42] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:20:42,536 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:20:55,310 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:55] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:20:58,391 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:58] "GET /register/page3?username=nnnn HTTP/1.1" 200 -
+2025-04-25 11:20:58,413 - INFO - 127.0.0.1 - - [25/Apr/2025 11:20:58] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:21:05,320 - INFO - 127.0.0.1 - - [25/Apr/2025 11:21:05] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:22:24,874 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-25 11:22:25,429 - INFO -  * Restarting with stat
+2025-04-25 11:22:31,730 - WARNING -  * Debugger is active!
+2025-04-25 11:22:31,734 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 11:22:38,342 - INFO - 127.0.0.1 - - [25/Apr/2025 11:22:38] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:22:44,584 - INFO - 127.0.0.1 - - [25/Apr/2025 11:22:44] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:22:47,828 - INFO - 127.0.0.1 - - [25/Apr/2025 11:22:47] "GET /register/page3?username=nnnn HTTP/1.1" 200 -
+2025-04-25 11:22:47,854 - INFO - 127.0.0.1 - - [25/Apr/2025 11:22:47] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:22:56,708 - INFO - 127.0.0.1 - - [25/Apr/2025 11:22:56] "POST /register HTTP/1.1" 200 -
+2025-04-25 11:27:31,036 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 11:27:31,036 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 11:27:31,036 - INFO -  * Restarting with stat
+2025-04-25 11:27:36,867 - WARNING -  * Debugger is active!
+2025-04-25 11:27:36,867 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 11:27:46,854 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:46] "GET / HTTP/1.1" 200 -
+2025-04-25 11:27:46,942 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 11:27:48,785 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:48] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 11:27:48,811 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 11:27:50,383 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:50] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 11:27:50,411 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:50] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:27:52,055 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:52] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:27:52,080 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:52] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:27:58,103 - INFO - 127.0.0.1 - - [25/Apr/2025 11:27:58] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 11:32:34,361 - INFO - 127.0.0.1 - - [25/Apr/2025 11:32:34] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:32:34,394 - INFO - 127.0.0.1 - - [25/Apr/2025 11:32:34] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:32:39,113 - INFO - 127.0.0.1 - - [25/Apr/2025 11:32:39] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 11:32:43,238 - INFO - 127.0.0.1 - - [25/Apr/2025 11:32:43] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:32:43,265 - INFO - 127.0.0.1 - - [25/Apr/2025 11:32:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:33:19,939 - INFO - 127.0.0.1 - - [25/Apr/2025 11:33:19] "POST /check-user HTTP/1.1" 200 -
+2025-04-25 11:35:29,735 - INFO - 127.0.0.1 - - [25/Apr/2025 11:35:29] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:35:29,766 - INFO - 127.0.0.1 - - [25/Apr/2025 11:35:29] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:36:41,988 - INFO - 127.0.0.1 - - [25/Apr/2025 11:36:41] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:36:42,029 - INFO - 127.0.0.1 - - [25/Apr/2025 11:36:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:36:45,258 - INFO - 127.0.0.1 - - [25/Apr/2025 11:36:45] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:38:53,502 - INFO - 127.0.0.1 - - [25/Apr/2025 11:38:53] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:38:53,537 - INFO - 127.0.0.1 - - [25/Apr/2025 11:38:53] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:39:38,261 - INFO - 127.0.0.1 - - [25/Apr/2025 11:39:38] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:41:34,642 - INFO - 127.0.0.1 - - [25/Apr/2025 11:41:34] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 11:41:34,671 - INFO - 127.0.0.1 - - [25/Apr/2025 11:41:34] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 11:41:37,342 - INFO - 127.0.0.1 - - [25/Apr/2025 11:41:37] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:47:51,100 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 21:47:51,100 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 21:47:51,119 - INFO -  * Restarting with stat
+2025-04-25 21:48:00,294 - WARNING -  * Debugger is active!
+2025-04-25 21:48:00,308 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 21:48:00,736 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:00] "GET / HTTP/1.1" 200 -
+2025-04-25 21:48:01,002 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 21:48:02,117 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-25 21:48:04,724 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:04] "GET /home2 HTTP/1.1" 200 -
+2025-04-25 21:48:04,791 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-25 21:48:07,477 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:07] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-25 21:48:07,515 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:48:09,953 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:09] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 21:48:09,985 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:09] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:48:31,198 - INFO - 127.0.0.1 - - [25/Apr/2025 21:48:31] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:52:40,746 - INFO - 127.0.0.1 - - [25/Apr/2025 21:52:40] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 21:52:40,778 - INFO - 127.0.0.1 - - [25/Apr/2025 21:52:40] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:53:05,347 - INFO - 127.0.0.1 - - [25/Apr/2025 21:53:05] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:58:33,208 - INFO - 127.0.0.1 - - [25/Apr/2025 21:58:33] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 21:58:33,280 - INFO - 127.0.0.1 - - [25/Apr/2025 21:58:33] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 21:58:53,641 - INFO - 127.0.0.1 - - [25/Apr/2025 21:58:53] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:05:43,362 - INFO - 127.0.0.1 - - [25/Apr/2025 22:05:43] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 22:05:43,407 - INFO - 127.0.0.1 - - [25/Apr/2025 22:05:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:06:04,549 - INFO - 127.0.0.1 - - [25/Apr/2025 22:06:04] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:09:23,236 - INFO - 127.0.0.1 - - [25/Apr/2025 22:09:23] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 22:09:23,287 - INFO - 127.0.0.1 - - [25/Apr/2025 22:09:23] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:09:36,273 - INFO - 127.0.0.1 - - [25/Apr/2025 22:09:36] "POST /register HTTP/1.1" 200 -
+2025-04-25 22:16:01,085 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-25 22:16:01,993 - INFO -  * Restarting with stat
+2025-04-25 22:23:38,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 22:23:38,430 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 22:23:38,434 - INFO -  * Restarting with stat
+2025-04-25 22:23:49,914 - WARNING -  * Debugger is active!
+2025-04-25 22:23:49,914 - INFO -  * Debugger PIN: 816-571-228
+2025-04-25 22:23:50,404 - INFO - 127.0.0.1 - - [25/Apr/2025 22:23:50] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-25 22:23:50,584 - INFO - 127.0.0.1 - - [25/Apr/2025 22:23:50] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:24:02,651 - INFO - 127.0.0.1 - - [25/Apr/2025 22:24:02] "POST /register HTTP/1.1" 200 -
+2025-04-25 22:24:14,270 - INFO - 127.0.0.1 - - [25/Apr/2025 22:24:14] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-25 22:24:46,015 - INFO - 127.0.0.1 - - [25/Apr/2025 22:24:46] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:22:16,662 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 09:22:16,662 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 09:22:16,669 - INFO -  * Restarting with stat
+2025-04-26 09:22:27,159 - WARNING -  * Debugger is active!
+2025-04-26 09:22:27,177 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:22:31,153 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:31] "GET / HTTP/1.1" 200 -
+2025-04-26 09:22:31,503 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:22:33,017 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-26 09:22:34,256 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:34] "GET /home2 HTTP/1.1" 200 -
+2025-04-26 09:22:34,287 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:22:36,400 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:36] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-26 09:22:36,451 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:36] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:22:38,438 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:38] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-26 09:22:38,471 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:38] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:22:52,838 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:52] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:22:56,897 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:56] "GET /register/page3?username=mmmm HTTP/1.1" 200 -
+2025-04-26 09:22:56,965 - INFO - 127.0.0.1 - - [26/Apr/2025 09:22:56] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:23:05,810 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:05] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:23:09,438 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:09] "GET /register/page4?username=mmmm HTTP/1.1" 200 -
+2025-04-26 09:23:09,475 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:09] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:23:18,513 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:18] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:23:22,303 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:22] "GET /register/page5?username=mmmm HTTP/1.1" 200 -
+2025-04-26 09:23:22,326 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:22] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:23:31,827 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:31] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:23:36,220 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "[35m[1mGET /register/page6?username=mmmm HTTP/1.1[0m" 500 -
+2025-04-26 09:23:36,294 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "GET /register/page6?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-26 09:23:36,336 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "GET /register/page6?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-26 09:23:36,702 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "GET /register/page6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-26 09:23:36,702 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "GET /register/page6?__debugger__=yes&cmd=resource&f=console.png&s=3dMRkvL8S22RmuVsN2tf HTTP/1.1" 200 -
+2025-04-26 09:23:36,809 - INFO - 127.0.0.1 - - [26/Apr/2025 09:23:36] "[36mGET /register/page6?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-26 09:25:39,943 - INFO - 127.0.0.1 - - [26/Apr/2025 09:25:39] "GET /register/page6?username=mmmm HTTP/1.1" 200 -
+2025-04-26 09:25:39,990 - INFO - 127.0.0.1 - - [26/Apr/2025 09:25:39] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:25:52,687 - INFO - 127.0.0.1 - - [26/Apr/2025 09:25:52] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:25:54,074 - INFO - 127.0.0.1 - - [26/Apr/2025 09:25:54] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-26 09:25:54,115 - INFO - 127.0.0.1 - - [26/Apr/2025 09:25:54] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:01,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 09:31:01,053 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 09:31:01,053 - INFO -  * Restarting with stat
+2025-04-26 09:31:11,684 - WARNING -  * Debugger is active!
+2025-04-26 09:31:11,693 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:31:12,071 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:12] "GET / HTTP/1.1" 200 -
+2025-04-26 09:31:12,232 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:14,706 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:14] "GET /home2 HTTP/1.1" 200 -
+2025-04-26 09:31:14,958 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:16,859 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:16] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-26 09:31:16,901 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:16] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:19,007 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:19] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-26 09:31:19,053 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:19] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:33,803 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:33] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:31:37,072 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:37] "GET /register/page3?username=jhgr HTTP/1.1" 200 -
+2025-04-26 09:31:37,105 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:37] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:44,526 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:44] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:31:47,470 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:47] "GET /register/page4?username=jhgr HTTP/1.1" 200 -
+2025-04-26 09:31:47,520 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:47] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:31:56,059 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:56] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:31:59,199 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:59] "GET /register/page5?username=jhgr HTTP/1.1" 200 -
+2025-04-26 09:31:59,233 - INFO - 127.0.0.1 - - [26/Apr/2025 09:31:59] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:32:06,994 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:06] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:32:10,030 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:10] "GET /register/page6?username=jhgr HTTP/1.1" 200 -
+2025-04-26 09:32:10,063 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:10] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:32:19,357 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:19] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:32:20,741 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:20] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-26 09:32:20,788 - INFO - 127.0.0.1 - - [26/Apr/2025 09:32:20] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:35:56,754 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\main.py', reloading
+2025-04-26 09:35:57,574 - INFO -  * Restarting with stat
+2025-04-26 09:36:22,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-26 09:36:22,806 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-26 09:36:22,808 - INFO -  * Restarting with stat
+2025-04-26 09:36:31,095 - WARNING -  * Debugger is active!
+2025-04-26 09:36:31,097 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:36:35,136 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:35] "GET / HTTP/1.1" 200 -
+2025-04-26 09:36:35,308 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:36:38,827 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:38] "GET /home2 HTTP/1.1" 200 -
+2025-04-26 09:36:38,868 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-26 09:36:40,973 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:40] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-26 09:36:41,009 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:41] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:36:43,585 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:43] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-26 09:36:43,627 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:36:54,117 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:54] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:36:58,559 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:58] "GET /register/page3?username=sachin HTTP/1.1" 200 -
+2025-04-26 09:36:58,583 - INFO - 127.0.0.1 - - [26/Apr/2025 09:36:58] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:37:07,185 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:07] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:37:10,176 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:10] "GET /register/page4?username=sachin HTTP/1.1" 200 -
+2025-04-26 09:37:10,200 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:10] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:37:18,032 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:18] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:37:20,907 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:20] "GET /register/page5?username=sachin HTTP/1.1" 200 -
+2025-04-26 09:37:20,944 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:20] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:37:28,229 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:28] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:37:31,586 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:31] "GET /register/page6?username=sachin HTTP/1.1" 200 -
+2025-04-26 09:37:31,625 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:31] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:37:41,770 - ERROR - Error during sign up for sachin: [WinError 2] The system cannot find the file specified
+2025-04-26 09:37:41,851 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:41] "POST /register HTTP/1.1" 200 -
+2025-04-26 09:37:43,363 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:43] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-26 09:37:43,412 - INFO - 127.0.0.1 - - [26/Apr/2025 09:37:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-26 09:44:40,676 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\register_user.py', reloading
+2025-04-26 09:44:41,638 - INFO -  * Restarting with stat
+2025-04-26 09:44:52,587 - WARNING -  * Debugger is active!
+2025-04-26 09:44:52,605 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:45:10,620 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\main.py', reloading
+2025-04-26 09:45:11,575 - INFO -  * Restarting with stat
+2025-04-26 09:45:21,069 - WARNING -  * Debugger is active!
+2025-04-26 09:45:21,069 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:52:06,024 - ERROR - Error during sign up for sachin: [WinError 2] The system cannot find the file specified
+2025-04-26 09:53:43,779 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\register_user.py', reloading
+2025-04-26 09:53:45,029 - INFO -  * Restarting with stat
+2025-04-26 09:53:55,127 - WARNING -  * Debugger is active!
+2025-04-26 09:53:55,135 - INFO -  * Debugger PIN: 816-571-228
+2025-04-26 09:54:10,649 - ERROR - Error during sign up for sachin: [WinError 2] The system cannot find the file specified
+2025-04-26 17:54:30,321 - ERROR - Error during sign up for sachin: [WinError 2] The system cannot find the file specified
+2025-04-26 18:11:25,659 - ERROR - Error during sign up for sachin: Error passing `ffmpeg -i` command output:
+
+Input #0, matroska,webm, from 'Data\sachin\sample_1.webm':
+  Metadata:
+    encoder         : Chrome
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #0:0(eng): Audio: opus, 48000 Hz, mono, fltp (default)
+At least one output file must be specified
+
+2025-04-27 23:50:53,921 - ERROR - Error during sign up for sachin: [WinError 2] The system cannot find the file specified
+2025-04-28 00:06:33,770 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 00:06:33,778 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 00:06:33,778 - INFO -  * Restarting with stat
+2025-04-28 00:07:14,860 - INFO - Found 5 WAV files in 'Data\sachin'.
+2025-04-28 00:07:36,270 - INFO - Successfully read file: sample_1.wav with sample rate: 48000
+2025-04-28 00:07:36,348 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 00:07:36,348 - INFO - Feature Variance: [0.14658826 4.92473817 5.11012312 4.83591066 7.44918869 7.0581895
+ 9.34083345 8.38526687 7.01043502 9.66962485 7.60459088 6.93330784
+ 7.34831164 7.17932624 6.94353822 6.55187151 5.35940189 2.54799591
+ 1.76472144 0.9793055 ]
+2025-04-28 00:07:36,364 - INFO - Features extracted from sample_1.wav: shape (395, 40)
+2025-04-28 00:07:36,364 - INFO - Successfully read file: sample_2.wav with sample rate: 48000
+2025-04-28 00:07:36,434 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 00:07:36,434 - INFO - Feature Variance: [0.14658826 4.92473817 5.11012312 4.83591066 7.44918869 7.0581895
+ 9.34083345 8.38526687 7.01043502 9.66962485 7.60459088 6.93330784
+ 7.34831164 7.17932624 6.94353822 6.55187151 5.35940189 2.54799591
+ 1.76472144 0.9793055 ]
+2025-04-28 00:07:36,451 - INFO - Features extracted from sample_2.wav: shape (395, 40)
+2025-04-28 00:07:36,451 - INFO - Successfully read file: sample_3.wav with sample rate: 48000
+2025-04-28 00:07:36,482 - INFO - Successfully read file: sample_4.wav with sample rate: 48000
+2025-04-28 00:07:36,498 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 00:07:36,513 - INFO - Feature Variance: [0.14658826 4.92473817 5.11012312 4.83591066 7.44918869 7.0581895
+ 9.34083345 8.38526687 7.01043502 9.66962485 7.60459088 6.93330784
+ 7.34831164 7.17932624 6.94353822 6.55187151 5.35940189 2.54799591
+ 1.76472144 0.9793055 ]
+2025-04-28 00:07:36,513 - INFO - Features extracted from sample_3.wav: shape (395, 40)
+2025-04-28 00:07:36,513 - INFO - Successfully read file: sample_5.wav with sample rate: 48000
+2025-04-28 00:07:36,544 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 00:07:36,560 - INFO - Feature Variance: [0.14658826 4.92473817 5.11012312 4.83591066 7.44918869 7.0581895
+ 9.34083345 8.38526687 7.01043502 9.66962485 7.60459088 6.93330784
+ 7.34831164 7.17932624 6.94353822 6.55187151 5.35940189 2.54799591
+ 1.76472144 0.9793055 ]
+2025-04-28 00:07:36,575 - INFO - Features extracted from sample_4.wav: shape (395, 40)
+2025-04-28 00:07:36,583 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 00:07:36,591 - INFO - Feature Variance: [0.14658826 4.92473817 5.11012312 4.83591066 7.44918869 7.0581895
+ 9.34083345 8.38526687 7.01043502 9.66962485 7.60459088 6.93330784
+ 7.34831164 7.17932624 6.94353822 6.55187151 5.35940189 2.54799591
+ 1.76472144 0.9793055 ]
+2025-04-28 00:07:36,600 - INFO - Features extracted from sample_5.wav: shape (395, 40)
+2025-04-28 00:07:36,756 - INFO - Total features concatenated: (1975, 40)
+2025-04-28 00:07:36,809 - INFO - UBM Means shape: (32, 40)
+2025-04-28 00:07:36,809 - INFO - UBM Covariances shape: (32, 40)
+2025-04-28 00:07:36,809 - INFO - Fitting the GMM model to the extracted features...
+2025-04-28 00:07:37,507 - INFO - GMM model training completed successfully in 0.70 seconds.
+2025-04-28 00:07:37,515 - INFO - GMM model trained and saved successfully at C:\Users\LENOVO\Desktop\speaker\voiceauth\model\sachin.gmm.
+2025-04-28 00:22:14,896 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 00:22:14,896 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 00:22:14,896 - INFO -  * Restarting with stat
+2025-04-28 00:22:23,075 - WARNING -  * Debugger is active!
+2025-04-28 00:22:23,086 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 00:22:54,485 - INFO - 127.0.0.1 - - [28/Apr/2025 00:22:54] "GET / HTTP/1.1" 200 -
+2025-04-28 00:22:54,688 - INFO - 127.0.0.1 - - [28/Apr/2025 00:22:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 00:22:55,973 - INFO - 127.0.0.1 - - [28/Apr/2025 00:22:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 00:23:00,491 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:00] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 00:23:00,531 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 00:23:03,386 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:03] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 00:23:03,430 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:03] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:23:07,530 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:07] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 00:23:07,560 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:23:42,274 - INFO - 127.0.0.1 - - [28/Apr/2025 00:23:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:29:06,007 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:06] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 00:29:06,064 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:06] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:29:13,951 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:13] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 00:29:29,315 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:29] "POST /register HTTP/1.1" 200 -
+2025-04-28 00:29:37,242 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:37] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 00:29:37,267 - INFO - 127.0.0.1 - - [28/Apr/2025 00:29:37] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:32:04,316 - INFO - 127.0.0.1 - - [28/Apr/2025 00:32:04] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 00:32:04,381 - INFO - 127.0.0.1 - - [28/Apr/2025 00:32:04] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 00:32:10,435 - INFO - 127.0.0.1 - - [28/Apr/2025 00:32:10] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 00:32:33,430 - INFO - Using device: cpu
+2025-04-28 00:32:33,578 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 00:32:33,578 - INFO - Best validation accuracy: 70.05%
+2025-04-28 00:32:33,743 - INFO - 127.0.0.1 - - [28/Apr/2025 00:32:33] "POST /login HTTP/1.1" 200 -
+2025-04-28 09:59:34,638 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 09:59:34,638 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 09:59:34,638 - INFO -  * Restarting with stat
+2025-04-28 09:59:40,322 - WARNING -  * Debugger is active!
+2025-04-28 09:59:40,341 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 09:59:50,875 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:50] "GET / HTTP/1.1" 200 -
+2025-04-28 09:59:51,024 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 09:59:51,908 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-28 09:59:53,563 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:53] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 09:59:53,591 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 09:59:56,203 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:56] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 09:59:56,230 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:56] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 09:59:58,233 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:58] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 09:59:58,258 - INFO - 127.0.0.1 - - [28/Apr/2025 09:59:58] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:00:04,065 - INFO - 127.0.0.1 - - [28/Apr/2025 10:00:04] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:00:21,999 - INFO - Using device: cpu
+2025-04-28 10:00:22,097 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:00:22,097 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:00:22,207 - INFO - 127.0.0.1 - - [28/Apr/2025 10:00:22] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:01:54,021 - INFO - 127.0.0.1 - - [28/Apr/2025 10:01:54] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:01:54,055 - INFO - 127.0.0.1 - - [28/Apr/2025 10:01:54] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:02:03,780 - INFO - 127.0.0.1 - - [28/Apr/2025 10:02:03] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:02:03,812 - INFO - 127.0.0.1 - - [28/Apr/2025 10:02:03] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:02:11,494 - INFO - 127.0.0.1 - - [28/Apr/2025 10:02:11] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:02:26,302 - INFO - Using device: cpu
+2025-04-28 10:02:26,318 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:02:26,318 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:02:26,334 - INFO - 127.0.0.1 - - [28/Apr/2025 10:02:26] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:13:59,566 - INFO - 127.0.0.1 - - [28/Apr/2025 10:13:59] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:13:59,592 - INFO - 127.0.0.1 - - [28/Apr/2025 10:13:59] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:14:05,949 - INFO - 127.0.0.1 - - [28/Apr/2025 10:14:05] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:14:15,966 - INFO - Using device: cpu
+2025-04-28 10:14:16,003 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:14:16,003 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:14:16,044 - INFO - 127.0.0.1 - - [28/Apr/2025 10:14:16] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:14:56,093 - INFO - 127.0.0.1 - - [28/Apr/2025 10:14:56] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:14:56,116 - INFO - 127.0.0.1 - - [28/Apr/2025 10:14:56] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:15:01,065 - INFO - 127.0.0.1 - - [28/Apr/2025 10:15:01] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:15:11,501 - INFO - Using device: cpu
+2025-04-28 10:15:11,518 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:15:11,518 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:15:11,533 - INFO - 127.0.0.1 - - [28/Apr/2025 10:15:11] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:15:27,300 - INFO - 127.0.0.1 - - [28/Apr/2025 10:15:27] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:15:27,328 - INFO - 127.0.0.1 - - [28/Apr/2025 10:15:27] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:18:15,976 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 10:18:48,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 10:18:48,642 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 10:18:48,642 - INFO -  * Restarting with stat
+2025-04-28 10:18:54,946 - WARNING -  * Debugger is active!
+2025-04-28 10:18:54,946 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:18:56,107 - INFO - 127.0.0.1 - - [28/Apr/2025 10:18:56] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 10:18:56,171 - INFO - 127.0.0.1 - - [28/Apr/2025 10:18:56] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:18:58,524 - INFO - 127.0.0.1 - - [28/Apr/2025 10:18:58] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:18:58,549 - INFO - 127.0.0.1 - - [28/Apr/2025 10:18:58] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:19:03,741 - INFO - 127.0.0.1 - - [28/Apr/2025 10:19:03] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:19:15,102 - INFO - Using device: cpu
+2025-04-28 10:19:15,124 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:19:15,124 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:19:15,149 - INFO - 127.0.0.1 - - [28/Apr/2025 10:19:15] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:19:50,745 - INFO - 127.0.0.1 - - [28/Apr/2025 10:19:50] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:19:50,773 - INFO - 127.0.0.1 - - [28/Apr/2025 10:19:50] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:23:17,795 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:17] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 10:23:17,820 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:17] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:23:20,136 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:20] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:23:20,175 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:20] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:23:24,360 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:24] "[35m[1mPOST /check-user HTTP/1.1[0m" 500 -
+2025-04-28 10:23:27,804 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:27] "[35m[1mPOST /check-user HTTP/1.1[0m" 500 -
+2025-04-28 10:23:30,605 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:30] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:23:30,626 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:30] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:23:35,066 - INFO - 127.0.0.1 - - [28/Apr/2025 10:23:35] "[35m[1mPOST /check-user HTTP/1.1[0m" 500 -
+2025-04-28 10:31:36,827 - INFO - 127.0.0.1 - - [28/Apr/2025 10:31:36] "[35m[1mPOST /check-user HTTP/1.1[0m" 500 -
+2025-04-28 10:31:40,294 - INFO - 127.0.0.1 - - [28/Apr/2025 10:31:40] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:31:40,319 - INFO - 127.0.0.1 - - [28/Apr/2025 10:31:40] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:34:51,232 - INFO - 127.0.0.1 - - [28/Apr/2025 10:34:51] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:34:51,254 - INFO - 127.0.0.1 - - [28/Apr/2025 10:34:51] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:34:55,604 - INFO - 127.0.0.1 - - [28/Apr/2025 10:34:55] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:35:04,540 - INFO - Using device: cpu
+2025-04-28 10:35:04,556 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:35:04,556 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:35:04,593 - INFO - 127.0.0.1 - - [28/Apr/2025 10:35:04] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:37:24,362 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:24] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:37:24,381 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:24] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:37:28,589 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:28] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:37:37,626 - INFO - Using device: cpu
+2025-04-28 10:37:37,643 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:37:37,643 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:37:37,676 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:37] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:37:37,688 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:37] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:37:37,714 - INFO - 127.0.0.1 - - [28/Apr/2025 10:37:37] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:39:17,474 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 10:40:44,050 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 10:40:44,050 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 10:40:44,050 - INFO -  * Restarting with stat
+2025-04-28 10:40:49,852 - WARNING -  * Debugger is active!
+2025-04-28 10:40:49,852 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:40:50,178 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:50] "GET / HTTP/1.1" 200 -
+2025-04-28 10:40:50,226 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 10:40:53,325 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:53] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 10:40:53,348 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 10:40:55,599 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:55] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 10:40:55,632 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:55] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:40:57,968 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:57] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:40:57,990 - INFO - 127.0.0.1 - - [28/Apr/2025 10:40:57] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:41:04,768 - INFO - 127.0.0.1 - - [28/Apr/2025 10:41:04] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:41:12,462 - INFO - 127.0.0.1 - - [28/Apr/2025 10:41:12] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 10:45:49,137 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 10:45:49,804 - INFO -  * Restarting with stat
+2025-04-28 10:45:56,156 - WARNING -  * Debugger is active!
+2025-04-28 10:45:56,165 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:46:07,357 - INFO - 127.0.0.1 - - [28/Apr/2025 10:46:07] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:46:07,410 - INFO - 127.0.0.1 - - [28/Apr/2025 10:46:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:46:12,344 - INFO - 127.0.0.1 - - [28/Apr/2025 10:46:12] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:46:20,650 - INFO - 127.0.0.1 - - [28/Apr/2025 10:46:20] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 10:47:24,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 10:47:24,590 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 10:47:24,590 - INFO -  * Restarting with stat
+2025-04-28 10:47:30,607 - WARNING -  * Debugger is active!
+2025-04-28 10:47:30,611 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:47:30,883 - INFO - 127.0.0.1 - - [28/Apr/2025 10:47:30] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:47:30,943 - INFO - 127.0.0.1 - - [28/Apr/2025 10:47:30] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:47:35,734 - INFO - 127.0.0.1 - - [28/Apr/2025 10:47:35] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:47:43,407 - INFO - 127.0.0.1 - - [28/Apr/2025 10:47:43] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 10:47:56,875 - INFO - 127.0.0.1 - - [28/Apr/2025 10:47:56] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:49:14,623 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 10:49:15,376 - INFO -  * Restarting with stat
+2025-04-28 10:49:21,749 - WARNING -  * Debugger is active!
+2025-04-28 10:49:21,752 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:49:22,011 - INFO - 127.0.0.1 - - [28/Apr/2025 10:49:22] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:49:22,073 - INFO - 127.0.0.1 - - [28/Apr/2025 10:49:22] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:49:26,322 - INFO - 127.0.0.1 - - [28/Apr/2025 10:49:26] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:49:33,370 - INFO - 127.0.0.1 - - [28/Apr/2025 10:49:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 10:51:01,445 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 10:51:02,069 - INFO -  * Restarting with stat
+2025-04-28 10:51:08,517 - WARNING -  * Debugger is active!
+2025-04-28 10:51:08,517 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 10:51:08,787 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:08] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 10:51:08,825 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:08] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:51:13,251 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:13] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:51:25,704 - INFO - Using device: cpu
+2025-04-28 10:51:25,728 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:51:25,728 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:51:25,762 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:25] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:51:42,944 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:42] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:51:42,970 - INFO - 127.0.0.1 - - [28/Apr/2025 10:51:42] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:54:54,381 - INFO - 127.0.0.1 - - [28/Apr/2025 10:54:54] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 10:55:04,046 - INFO - Using device: cpu
+2025-04-28 10:55:04,062 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 10:55:04,062 - INFO - Best validation accuracy: 70.05%
+2025-04-28 10:55:04,093 - INFO - 127.0.0.1 - - [28/Apr/2025 10:55:04] "POST /login HTTP/1.1" 200 -
+2025-04-28 10:59:50,839 - INFO - 127.0.0.1 - - [28/Apr/2025 10:59:50] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:59:50,864 - INFO - 127.0.0.1 - - [28/Apr/2025 10:59:50] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 10:59:54,675 - INFO - 127.0.0.1 - - [28/Apr/2025 10:59:54] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 10:59:54,701 - INFO - 127.0.0.1 - - [28/Apr/2025 10:59:54] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:01:31,093 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:31] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:01:31,109 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:31] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:01:33,639 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:33] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:01:33,671 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:33] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:01:39,206 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:39] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:01:48,437 - INFO - Using device: cpu
+2025-04-28 11:01:48,471 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:01:48,471 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:01:48,496 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:48] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:01:50,515 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:50] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:01:50,540 - INFO - 127.0.0.1 - - [28/Apr/2025 11:01:50] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:06:43,854 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:43] "[33mGET /home HTTP/1.1[0m" 404 -
+2025-04-28 11:06:50,328 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:50] "GET / HTTP/1.1" 200 -
+2025-04-28 11:06:50,350 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:06:53,087 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:53] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 11:06:53,120 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:06:55,517 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:55] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:06:55,559 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:55] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:06:57,871 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:57] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:06:57,911 - INFO - 127.0.0.1 - - [28/Apr/2025 11:06:57] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:07:05,316 - INFO - 127.0.0.1 - - [28/Apr/2025 11:07:05] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:07:16,823 - INFO - Using device: cpu
+2025-04-28 11:07:16,838 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:07:16,838 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:07:16,870 - INFO - 127.0.0.1 - - [28/Apr/2025 11:07:16] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:07:18,918 - INFO - 127.0.0.1 - - [28/Apr/2025 11:07:18] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:07:18,942 - INFO - 127.0.0.1 - - [28/Apr/2025 11:07:18] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:14:21,415 - INFO - 127.0.0.1 - - [28/Apr/2025 11:14:21] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:14:21,471 - INFO - 127.0.0.1 - - [28/Apr/2025 11:14:21] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:14:25,180 - INFO - 127.0.0.1 - - [28/Apr/2025 11:14:25] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:14:25,226 - INFO - 127.0.0.1 - - [28/Apr/2025 11:14:25] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:14:31,299 - INFO - 127.0.0.1 - - [28/Apr/2025 11:14:31] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:16:16,187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 11:16:16,187 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 11:16:16,205 - INFO -  * Restarting with stat
+2025-04-28 11:16:29,247 - WARNING -  * Debugger is active!
+2025-04-28 11:16:29,255 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 11:16:29,646 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:29] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:16:29,795 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:29] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:16:40,184 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:40] "[33mGET /home HTTP/1.1[0m" 404 -
+2025-04-28 11:16:44,791 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:44] "GET / HTTP/1.1" 200 -
+2025-04-28 11:16:44,826 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:16:50,602 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:50] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 11:16:50,632 - INFO - 127.0.0.1 - - [28/Apr/2025 11:16:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:17:00,016 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:00] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:17:00,067 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:00] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:17:02,373 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:02] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:17:02,413 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:02] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:17:07,135 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:07] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:17:15,432 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:15] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 11:17:17,461 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:17] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:17:17,502 - INFO - 127.0.0.1 - - [28/Apr/2025 11:17:17] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:19:18,115 - INFO - 127.0.0.1 - - [28/Apr/2025 11:19:18] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:19:18,154 - INFO - 127.0.0.1 - - [28/Apr/2025 11:19:18] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:19:21,805 - INFO - 127.0.0.1 - - [28/Apr/2025 11:19:21] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:19:21,839 - INFO - 127.0.0.1 - - [28/Apr/2025 11:19:21] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:20:05,428 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:05] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:20:05,475 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:05] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:20:25,552 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:25] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:20:33,195 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:33] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-04-28 11:20:35,217 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:35] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:20:35,258 - INFO - 127.0.0.1 - - [28/Apr/2025 11:20:35] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:22:48,376 - INFO - 127.0.0.1 - - [28/Apr/2025 11:22:48] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:22:48,413 - INFO - 127.0.0.1 - - [28/Apr/2025 11:22:48] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:22:51,067 - INFO - 127.0.0.1 - - [28/Apr/2025 11:22:51] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:22:51,110 - INFO - 127.0.0.1 - - [28/Apr/2025 11:22:51] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:23:48,449 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 11:23:49,590 - INFO -  * Restarting with stat
+2025-04-28 11:24:04,170 - WARNING -  * Debugger is active!
+2025-04-28 11:24:04,172 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 11:24:04,571 - INFO - 127.0.0.1 - - [28/Apr/2025 11:24:04] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:24:04,727 - INFO - 127.0.0.1 - - [28/Apr/2025 11:24:04] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:26:18,816 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 11:26:18,816 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 11:26:18,820 - INFO -  * Restarting with stat
+2025-04-28 11:26:27,474 - WARNING -  * Debugger is active!
+2025-04-28 11:26:27,474 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 11:26:41,164 - INFO - 127.0.0.1 - - [28/Apr/2025 11:26:41] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:26:41,303 - INFO - 127.0.0.1 - - [28/Apr/2025 11:26:41] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:26:43,931 - INFO - 127.0.0.1 - - [28/Apr/2025 11:26:43] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:26:43,969 - INFO - 127.0.0.1 - - [28/Apr/2025 11:26:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:26:48,837 - INFO - 127.0.0.1 - - [28/Apr/2025 11:26:48] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:27:06,658 - INFO - Using device: cpu
+2025-04-28 11:27:06,768 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:27:06,768 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:27:06,940 - INFO - 127.0.0.1 - - [28/Apr/2025 11:27:06] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:27:09,149 - INFO - 127.0.0.1 - - [28/Apr/2025 11:27:09] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:27:09,208 - INFO - 127.0.0.1 - - [28/Apr/2025 11:27:09] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:27:52,542 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\app.py', reloading
+2025-04-28 11:29:05,119 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 11:29:05,119 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 11:29:05,119 - INFO -  * Restarting with stat
+2025-04-28 11:29:15,641 - WARNING -  * Debugger is active!
+2025-04-28 11:29:15,644 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 11:29:15,984 - INFO - 127.0.0.1 - - [28/Apr/2025 11:29:15] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:29:16,124 - INFO - 127.0.0.1 - - [28/Apr/2025 11:29:16] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:35:12,007 - INFO - 127.0.0.1 - - [28/Apr/2025 11:35:12] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:35:12,049 - INFO - 127.0.0.1 - - [28/Apr/2025 11:35:12] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:38:36,246 - INFO - 127.0.0.1 - - [28/Apr/2025 11:38:36] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:38:36,285 - INFO - 127.0.0.1 - - [28/Apr/2025 11:38:36] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:40:12,531 - INFO - 127.0.0.1 - - [28/Apr/2025 11:40:12] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:40:12,576 - INFO - 127.0.0.1 - - [28/Apr/2025 11:40:12] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:40:54,620 - INFO - 127.0.0.1 - - [28/Apr/2025 11:40:54] "[33mGET /home HTTP/1.1[0m" 404 -
+2025-04-28 11:40:57,033 - INFO - 127.0.0.1 - - [28/Apr/2025 11:40:57] "GET / HTTP/1.1" 200 -
+2025-04-28 11:40:57,053 - INFO - 127.0.0.1 - - [28/Apr/2025 11:40:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:41:36,975 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:36] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 11:41:37,031 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:41:40,609 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:40] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-28 11:41:40,649 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:40] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:41:43,653 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:43] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-28 11:41:43,694 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:43] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:41:58,753 - INFO - 127.0.0.1 - - [28/Apr/2025 11:41:58] "POST /register HTTP/1.1" 200 -
+2025-04-28 11:42:07,245 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:07] "GET /register/page3?username=21bcs10985 HTTP/1.1" 200 -
+2025-04-28 11:42:07,277 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:42:16,694 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:16] "POST /register HTTP/1.1" 200 -
+2025-04-28 11:42:21,683 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:21] "GET /register/page4?username=21bcs10985 HTTP/1.1" 200 -
+2025-04-28 11:42:21,713 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:21] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:42:30,746 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:30] "POST /register HTTP/1.1" 200 -
+2025-04-28 11:42:34,183 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:34] "GET /register/page5?username=21bcs10985 HTTP/1.1" 200 -
+2025-04-28 11:42:34,223 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:34] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:42:46,763 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:46] "POST /register HTTP/1.1" 200 -
+2025-04-28 11:42:51,213 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:51] "GET /register/page6?username=21bcs10985 HTTP/1.1" 200 -
+2025-04-28 11:42:51,247 - INFO - 127.0.0.1 - - [28/Apr/2025 11:42:51] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:43:07,113 - INFO - Found 5 WAV files in 'Data\21bcs10985'.
+2025-04-28 11:43:07,788 - INFO - 127.0.0.1 - - [28/Apr/2025 11:43:07] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-28 11:43:12,769 - INFO - 127.0.0.1 - - [28/Apr/2025 11:43:12] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:43:34,080 - INFO - Successfully read file: sample_1.wav with sample rate: 48000
+2025-04-28 11:43:34,083 - INFO - Successfully read file: sample_2.wav with sample rate: 48000
+2025-04-28 11:43:34,128 - INFO - Successfully read file: sample_4.wav with sample rate: 48000
+2025-04-28 11:43:34,128 - INFO - Successfully read file: sample_3.wav with sample rate: 48000
+2025-04-28 11:43:34,163 - INFO - Successfully read file: sample_5.wav with sample rate: 48000
+2025-04-28 11:43:34,193 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 11:43:34,193 - INFO - Extracted MFCC features shape: (401, 20)
+2025-04-28 11:43:34,193 - INFO - Feature Variance: [ 2.04877756  5.99364901  7.84371426 22.10195143 17.84326441 28.62657465
+ 15.86973418 40.32612625 68.1145358  39.822624   40.10340369 36.7124293
+ 28.23084829 27.75899493 25.44476154 16.66591895 11.69168282 12.41306773
+  5.41379683  2.57456658]
+2025-04-28 11:43:34,202 - INFO - Feature Variance: [ 2.29356939  3.52576457  7.05904552 14.4807464  22.22590965 13.61562223
+ 35.05353654 25.84867017 22.02285731 33.5454054  39.31226264 18.81881866
+ 29.55279192 28.37848001 15.21347502 11.14139832 12.89488469  5.39045748
+  3.07159696  2.7336369 ]
+2025-04-28 11:43:34,208 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 11:43:34,208 - INFO - Feature Variance: [  3.50812549  39.7525356   48.98099907  56.78992441 104.44045627
+ 112.68662549 186.67246948 219.70806517 141.7629025  104.9507255
+  96.07979118  96.91345859 120.84631822 101.29576579  61.73023245
+  52.21603219  22.31154947  19.51693859   7.81216904  12.92348004]
+2025-04-28 11:43:34,208 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 11:43:34,208 - INFO - Feature Variance: [ 1.22633963 10.51656502 11.12147312 21.33624888 51.16771742 26.35457491
+ 52.50810159 46.29515061 40.61353826 48.59381023 41.48745324 36.52812165
+ 66.45270655 48.95614696 28.95034695 21.08442895 18.19490236  8.40482531
+  6.45333724  3.36659017]
+2025-04-28 11:43:34,222 - INFO - Features extracted from sample_3.wav: shape (395, 40)
+2025-04-28 11:43:34,222 - INFO - Features extracted from sample_2.wav: shape (395, 40)
+2025-04-28 11:43:34,222 - INFO - Features extracted from sample_1.wav: shape (401, 40)
+2025-04-28 11:43:34,222 - INFO - Features extracted from sample_4.wav: shape (395, 40)
+2025-04-28 11:43:34,222 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 11:43:34,233 - INFO - Feature Variance: [ 0.88814603  2.82021787  4.67355702 10.1905084  10.77574061 11.6190339
+ 18.38870836 16.87365115 17.03646832 20.53770584 17.62370476 17.1833574
+ 17.38103979 18.50749069 15.39747633 10.43800535  8.48818788  5.80808077
+  3.63508877  2.50397782]
+2025-04-28 11:43:34,235 - INFO - Features extracted from sample_5.wav: shape (395, 40)
+2025-04-28 11:43:34,412 - INFO - Total features concatenated: (1981, 40)
+2025-04-28 11:43:34,492 - INFO - UBM Means shape: (32, 40)
+2025-04-28 11:43:34,503 - INFO - UBM Covariances shape: (32, 40)
+2025-04-28 11:43:34,505 - INFO - Fitting the GMM model to the extracted features...
+2025-04-28 11:43:35,473 - INFO - GMM model training completed successfully in 0.97 seconds.
+2025-04-28 11:43:35,484 - INFO - GMM model trained and saved successfully at C:\Users\LENOVO\Desktop\speaker\voiceauth\model\21bcs10985.gmm.
+2025-04-28 11:43:35,485 - INFO - 127.0.0.1 - - [28/Apr/2025 11:43:35] "POST /register HTTP/1.1" 200 -
+2025-04-28 11:43:49,456 - INFO - 127.0.0.1 - - [28/Apr/2025 11:43:49] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:44:07,897 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:07] "GET / HTTP/1.1" 200 -
+2025-04-28 11:44:07,960 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:44:11,883 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:11] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 11:44:11,930 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:44:15,632 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:15] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:44:15,693 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:15] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:44:22,992 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:22] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:44:23,035 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:23] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:44:29,067 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:29] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:44:48,574 - INFO - Using device: cpu
+2025-04-28 11:44:48,777 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:44:48,777 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:44:48,982 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:48] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:44:51,003 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:51] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:44:51,047 - INFO - 127.0.0.1 - - [28/Apr/2025 11:44:51] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:45:06,456 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:06] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:45:06,503 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:06] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:45:14,213 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:14] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:45:14,262 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:14] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:45:19,553 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:19] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:45:30,008 - INFO - Using device: cpu
+2025-04-28 11:45:30,032 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:45:30,033 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:45:30,083 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:30] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:45:32,112 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:32] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:45:32,163 - INFO - 127.0.0.1 - - [28/Apr/2025 11:45:32] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:47:10,958 - INFO -  * Detected change in 'C:\\Users\\LENOVO\\Desktop\\speaker\\main.py', reloading
+2025-04-28 11:48:18,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 11:48:18,794 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 11:48:18,801 - INFO -  * Restarting with stat
+2025-04-28 11:48:33,392 - WARNING -  * Debugger is active!
+2025-04-28 11:48:33,402 - INFO -  * Debugger PIN: 724-392-350
+2025-04-28 11:48:33,842 - INFO - 127.0.0.1 - - [28/Apr/2025 11:48:33] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:48:34,012 - INFO - 127.0.0.1 - - [28/Apr/2025 11:48:34] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:48:38,546 - INFO - 127.0.0.1 - - [28/Apr/2025 11:48:38] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:48:38,589 - INFO - 127.0.0.1 - - [28/Apr/2025 11:48:38] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:48:44,247 - INFO - 127.0.0.1 - - [28/Apr/2025 11:48:44] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:49:00,934 - INFO - Using device: cpu
+2025-04-28 11:49:01,017 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:49:01,017 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:49:01,077 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:01] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:49:03,114 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:03] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:49:03,148 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:03] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:49:20,961 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:20] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 11:49:21,015 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:21] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:49:24,012 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:24] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 11:49:24,060 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:24] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:49:31,354 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:31] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 11:49:43,355 - INFO - Using device: cpu
+2025-04-28 11:49:43,372 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 11:49:43,372 - INFO - Best validation accuracy: 70.05%
+2025-04-28 11:49:43,422 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:43] "POST /login HTTP/1.1" 200 -
+2025-04-28 11:49:45,441 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:45] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:49:45,481 - INFO - 127.0.0.1 - - [28/Apr/2025 11:49:45] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:55:36,330 - INFO - 127.0.0.1 - - [28/Apr/2025 11:55:36] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 11:55:36,380 - INFO - 127.0.0.1 - - [28/Apr/2025 11:55:36] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 11:55:43,372 - INFO - 127.0.0.1 - - [28/Apr/2025 11:55:43] "GET / HTTP/1.1" 200 -
+2025-04-28 11:55:43,400 - INFO - 127.0.0.1 - - [28/Apr/2025 11:55:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:56:46,556 - INFO - 127.0.0.1 - - [28/Apr/2025 11:56:46] "GET / HTTP/1.1" 200 -
+2025-04-28 11:56:46,588 - INFO - 127.0.0.1 - - [28/Apr/2025 11:56:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 11:57:14,373 - INFO - 127.0.0.1 - - [28/Apr/2025 11:57:14] "GET / HTTP/1.1" 200 -
+2025-04-28 11:57:14,414 - INFO - 127.0.0.1 - - [28/Apr/2025 11:57:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:00:14,739 - INFO - 127.0.0.1 - - [28/Apr/2025 12:00:14] "GET / HTTP/1.1" 200 -
+2025-04-28 12:00:14,814 - INFO - 127.0.0.1 - - [28/Apr/2025 12:00:14] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-28 12:01:03,879 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:03] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 12:01:03,960 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:03] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-28 12:01:09,637 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:09] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-28 12:01:09,679 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:09] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:01:23,761 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:23] "GET /register/page2 HTTP/1.1" 200 -
+2025-04-28 12:01:23,812 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:23] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:01:57,999 - INFO - 127.0.0.1 - - [28/Apr/2025 12:01:57] "POST /register HTTP/1.1" 200 -
+2025-04-28 12:02:07,459 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:07] "GET /register/page3?username=sachin1 HTTP/1.1" 200 -
+2025-04-28 12:02:07,514 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:07] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:02:22,599 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:22] "POST /register HTTP/1.1" 200 -
+2025-04-28 12:02:26,689 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:26] "GET /register/page4?username=sachin1 HTTP/1.1" 200 -
+2025-04-28 12:02:26,739 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:26] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:02:38,249 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:38] "POST /register HTTP/1.1" 200 -
+2025-04-28 12:02:42,119 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:42] "GET /register/page5?username=sachin1 HTTP/1.1" 200 -
+2025-04-28 12:02:42,159 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:42] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:02:53,360 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:53] "POST /register HTTP/1.1" 200 -
+2025-04-28 12:02:57,344 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:57] "GET /register/page6?username=sachin1 HTTP/1.1" 200 -
+2025-04-28 12:02:57,379 - INFO - 127.0.0.1 - - [28/Apr/2025 12:02:57] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:14,168 - INFO - Found 5 WAV files in 'Data\sachin1'.
+2025-04-28 12:03:14,908 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:14] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-28 12:03:14,975 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:14] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:20,098 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:20] "GET / HTTP/1.1" 200 -
+2025-04-28 12:03:20,171 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:26,108 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:26] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 12:03:26,174 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:30,249 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:30] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 12:03:30,303 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:30] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:33,441 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:33] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 12:03:33,840 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:33] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:03:40,599 - INFO - Successfully read file: sample_1.wav with sample rate: 48000
+2025-04-28 12:03:40,679 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 12:03:40,688 - INFO - Feature Variance: [  6.18992367 150.97171959  33.53672284 130.85172874 120.41093326
+ 115.25702668 306.31211138 105.34157013 118.62098023  83.75971988
+  84.54298394  73.70885909  73.00854049  67.68753401  45.06109173
+  34.18754975  25.67734769  14.75224076   9.45513181   5.84589465]
+2025-04-28 12:03:40,708 - INFO - Features extracted from sample_1.wav: shape (395, 40)
+2025-04-28 12:03:40,710 - INFO - Successfully read file: sample_2.wav with sample rate: 48000
+2025-04-28 12:03:40,776 - INFO - Extracted MFCC features shape: (401, 20)
+2025-04-28 12:03:40,776 - INFO - Feature Variance: [  8.02290573 194.52778777  40.34665003 161.89650577 204.05401201
+ 176.64302959 348.28687427 209.67223322  84.69409182 121.74289876
+ 143.56725383  51.22921639  77.82067655  60.55504487  28.66342005
+  15.76113111  30.66094466  12.6399885    5.73640334   7.51592669]
+2025-04-28 12:03:40,788 - INFO - Features extracted from sample_2.wav: shape (401, 40)
+2025-04-28 12:03:40,792 - INFO - Successfully read file: sample_3.wav with sample rate: 48000
+2025-04-28 12:03:40,848 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 12:03:40,848 - INFO - Feature Variance: [  8.74702268 246.94483247  57.83051816 178.36027513 242.28780672
+ 148.76954976 338.93610806 197.65312526 127.69155336 105.75578778
+ 141.25572515  52.20187879  41.65546489  70.1893999   37.58751312
+  25.90907073  26.14427618  17.43051057   8.55269925   6.20508452]
+2025-04-28 12:03:40,861 - INFO - Features extracted from sample_3.wav: shape (395, 40)
+2025-04-28 12:03:40,861 - INFO - Successfully read file: sample_4.wav with sample rate: 48000
+2025-04-28 12:03:40,923 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 12:03:40,923 - INFO - Feature Variance: [  8.83972693 197.20238866  32.0615021  140.32137032 118.11846214
+ 155.29811979 380.924215   136.42529093  95.93993325 108.02606539
+  86.97248225  55.56387072  54.19449029  93.04644338  29.30937229
+  16.20642004  19.05897665  14.72658662   6.18449121   4.62322694]
+2025-04-28 12:03:40,938 - INFO - Features extracted from sample_4.wav: shape (395, 40)
+2025-04-28 12:03:40,938 - INFO - Successfully read file: sample_5.wav with sample rate: 48000
+2025-04-28 12:03:41,000 - INFO - Extracted MFCC features shape: (395, 20)
+2025-04-28 12:03:41,000 - INFO - Feature Variance: [  8.08310963 120.6652717   31.60205728 145.80362851 122.85811634
+ 118.65346545 406.49903991 106.55608005 137.33143188 108.69396481
+  93.64243548  41.61723948  44.75315457  75.71190263  22.6880277
+  21.15881852  22.98206737  12.12638911   4.20503926   5.63087161]
+2025-04-28 12:03:41,008 - INFO - Features extracted from sample_5.wav: shape (395, 40)
+2025-04-28 12:03:41,169 - INFO - Total features concatenated: (1981, 40)
+2025-04-28 12:03:41,188 - INFO - UBM Means shape: (32, 40)
+2025-04-28 12:03:41,188 - INFO - UBM Covariances shape: (32, 40)
+2025-04-28 12:03:41,188 - INFO - Fitting the GMM model to the extracted features...
+2025-04-28 12:03:42,141 - INFO - GMM model training completed successfully in 0.95 seconds.
+2025-04-28 12:03:42,157 - INFO - GMM model trained and saved successfully at C:\Users\LENOVO\Desktop\speaker\voiceauth\model\sachin1.gmm.
+2025-04-28 12:03:42,159 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:42] "POST /register HTTP/1.1" 200 -
+2025-04-28 12:03:46,819 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:46] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 12:03:53,098 - INFO - 127.0.0.1 - - [28/Apr/2025 12:03:53] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 12:04:12,549 - INFO - Using device: cpu
+2025-04-28 12:04:12,678 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 12:04:12,678 - INFO - Best validation accuracy: 70.05%
+2025-04-28 12:04:12,758 - INFO - 127.0.0.1 - - [28/Apr/2025 12:04:12] "POST /login HTTP/1.1" 200 -
+2025-04-28 12:04:14,778 - INFO - 127.0.0.1 - - [28/Apr/2025 12:04:14] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 12:04:14,818 - INFO - 127.0.0.1 - - [28/Apr/2025 12:04:14] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:10:06,667 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:06] "GET / HTTP/1.1" 200 -
+2025-04-28 12:10:06,720 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:10:09,420 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:09] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 12:10:09,478 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:10:11,637 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:11] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 12:10:11,677 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:11] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:10:14,937 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:14] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 12:10:14,992 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:14] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:10:21,759 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:21] "POST /check-user HTTP/1.1" 200 -
+2025-04-28 12:10:38,133 - INFO - Using device: cpu
+2025-04-28 12:10:38,207 - INFO - Model loaded from C:\Users\LENOVO\Desktop\speaker\DeepfakeDetection\models\best_model.pth
+2025-04-28 12:10:38,207 - INFO - Best validation accuracy: 70.05%
+2025-04-28 12:10:38,257 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:38] "POST /login HTTP/1.1" 200 -
+2025-04-28 12:10:40,280 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:40] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 12:10:40,323 - INFO - 127.0.0.1 - - [28/Apr/2025 12:10:40] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:11:12,702 - INFO - 127.0.0.1 - - [28/Apr/2025 12:11:12] "GET / HTTP/1.1" 200 -
+2025-04-28 12:11:12,752 - INFO - 127.0.0.1 - - [28/Apr/2025 12:11:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:11:38,936 - INFO - 127.0.0.1 - - [28/Apr/2025 12:11:38] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 12:11:38,982 - INFO - 127.0.0.1 - - [28/Apr/2025 12:11:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:12:05,576 - INFO - 127.0.0.1 - - [28/Apr/2025 12:12:05] "GET /register/page1 HTTP/1.1" 200 -
+2025-04-28 12:12:05,617 - INFO - 127.0.0.1 - - [28/Apr/2025 12:12:05] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:12:36,100 - INFO - 127.0.0.1 - - [28/Apr/2025 12:12:36] "GET /register/page7 HTTP/1.1" 200 -
+2025-04-28 12:12:36,150 - INFO - 127.0.0.1 - - [28/Apr/2025 12:12:36] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:13:22,336 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:22] "GET / HTTP/1.1" 200 -
+2025-04-28 12:13:22,384 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:13:25,328 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:25] "GET /home2 HTTP/1.1" 200 -
+2025-04-28 12:13:25,378 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-28 12:13:32,374 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:32] "GET /login/page3 HTTP/1.1" 200 -
+2025-04-28 12:13:32,426 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:32] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:13:35,756 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:35] "GET /login/page1 HTTP/1.1" 200 -
+2025-04-28 12:13:35,802 - INFO - 127.0.0.1 - - [28/Apr/2025 12:13:35] "[36mGET /static/css/loginStyle.css HTTP/1.1[0m" 304 -
+2025-04-28 12:14:02,923 - INFO - 127.0.0.1 - - [28/Apr/2025 12:14:02] "GET /login/page2 HTTP/1.1" 200 -
+2025-04-28 12:14:02,970 - INFO - 127.0.0.1 - - [28/Apr/2025 12:14:02] "[36mGET /static/css/registerStyle.css HTTP/1.1[0m" 304 -

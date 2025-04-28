@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Voice Recording</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/registerStyle.css') }}">
+  <style>
+    audio {
+      margin-top: 10px;
+      width: 100%;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="main-home">
+    <p id="inner-heading">A DNN based speaker verification system 😊</p>
+
+    <div class="content-sentnse">
+      <h2>Count 2</h2>
+      <h1>Read this Sentence and then press submit button</h1>
+      <h3>This a DNN based speaker verification system our final year project. </h3>
+    </div>
+
+    <!-- <div class="input-text">
+      <label for="username">Enter your username:</label>
+      <input type="text" id="username" name="username" placeholder="Username" />
+    </div> -->
+
+    <div class="button-wrapper">
+      <button class="button" onclick="startRecording()" id="recordBtn">Start Recording 🎤</button>
+      <button class="button" onclick="saveRecording()">Save and Continue</button>
+      <button class="button" onclick="goToNext()">Next</button> 
+    </div>
+    <audio id="audioPreview" controls></audio>
+    <div class="footer"></div>
+  </div>
+
+  <script>
+    let mediaRecorder;
+    let recordedChunks = [];
+    let recordedBlob = null;
+
+    const params = new URLSearchParams(window.location.search);
+    const username = params.get('username');
+
+    function goToNext() {
+      // const username = document.getElementById('username').value;
+      window.location.href = '/register/page4?username=' + encodeURIComponent(username);
+    }
+
+    async function startRecording() {
+      // const username = document.getElementById("username").value.trim();
+      if (!username) {
+        alert("Please enter a username.");
+        return;
+      }
+
+      const recordBtn = document.getElementById("recordBtn");
+      recordBtn.disabled = true;
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        recordedChunks = [];
+
+        mediaRecorder = new MediaRecorder(stream, { mimeType: 'audio/webm' }); // WAV isn't officially supported
+        mediaRecorder.ondataavailable = e => {
+          if (e.data.size > 0) {
+            recordedChunks.push(e.data);
+          }
+        };
+
+        mediaRecorder.onstop = () => {
+          recordedBlob = new Blob(recordedChunks, { type: 'audio/webm' });
+
+          const audioURL = URL.createObjectURL(recordedBlob);
+          const audio = document.getElementById("audioPreview");
+          audio.src = audioURL;
+          audio.style.display = "block";
+
+          console.log("✅ Recording completed. Size:", recordedBlob.size);
+        };
+
+        mediaRecorder.start();
+        console.log("🎤 Recording started");
+
+        setTimeout(() => {
+          mediaRecorder.stop();
+          stream.getAudioTracks()[0].stop();
+          console.log("🛑 Recording stopped");
+          recordBtn.disabled = false;
+        }, 4000);
+
+      } catch (err) {
+        console.error("❌ Error accessing mic:", err);
+        alert("Microphone access denied or not working.");
+        recordBtn.disabled = false;
+      }
+    }
+
+    async function saveRecording() {
+      // const username = document.getElementById("username").value.trim();
+      if (!recordedBlob) {
+        alert("Please record your voice first.");
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append("audio_data", recordedBlob, "sample_2.webm");
+      formData.append("username", username);
+      formData.append("count", 2);
+
+      try {
+        const res = await fetch("/register", {
+          method: "POST",
+          body: formData
+        });
+
+        const result = await res.json();
+        alert(result.message);
+      } catch (e) {
+        console.error("❌ Error uploading:", e);
+        alert("Upload failed.");
+      }
+    }
+  </script>
+</body>
+</html>

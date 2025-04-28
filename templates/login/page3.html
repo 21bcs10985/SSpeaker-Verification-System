@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/loginStyle.css') }}">
+
+  <!-- Only additional styles for status block -->
+  <style>
+    .status-line {
+      font-size: 24px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    .success {
+      color: green;
+    }
+
+    .failure {
+      color: red;
+    }
+
+    #logs-container{
+      background-color: #ffff;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main-home">
+    <p id="inner-heading">A DNN based speaker verification system 😊</p>
+
+    <h1 id="reg">Registration Success !!</h1>
+
+    <!-- Display logs -->
+    <div id="logs-container">
+      <h2>Results:</h2>
+      <pre id="logs"></pre>
+    </div>
+
+    <div class="button-wrapper">
+      <button class="button" onclick="window.location.href='../'">Home</button>
+      <button class="button" onclick="window.location.href='page1'">Login</button>
+    </div> 
+
+    <div class="footer"></div>
+  </div>
+
+  <!-- Script to handle the logs and status -->
+  <script>
+    const logs = JSON.parse(localStorage.getItem('logs'));
+    const logsText = logs ? logs.join('\n') : "No logs available.";
+    document.getElementById('logs').textContent = logsText;
+
+    if (logs) {
+      let probReal = null;
+      let probFake = null;
+      let confidence = null;
+
+      logs.forEach(line => {
+        if (line.includes('Probability of Real')) {
+          const match = line.match(/Probability of Real:\s*([\d.]+)%/);
+          if (match) {
+            probReal = parseFloat(match[1]);
+          }
+        }
+        if (line.includes('Probability of Fake')) {
+          const match = line.match(/Probability of Fake:\s*([\d.]+)%/);
+          if (match) {
+            probFake = parseFloat(match[1]);
+          }
+        }
+        if (line.includes('Confidence')) {
+          const match = line.match(/Confidence:\s*([\d.]+)%/);
+          if (match) {
+            confidence = parseFloat(match[1]);
+          }
+        }
+      });
+
+      const reg = document.getElementById('reg');
+
+      if (probReal !== null && probFake !== null) {
+        if (probReal > probFake) {
+          reg.innerHTML = `
+            ✅ Voice Verified Successfully!<br>
+            Confidence: ${confidence}%<br>
+            <div class="status-line success">SUCCESS</div>
+          `;
+        } else {
+          reg.innerHTML = `
+            ❌ Deepfake Detected!<br>
+            Confidence: ${confidence}%<br>
+            <div class="status-line failure">FAILED</div>
+          `;
+        }
+      } else {
+        reg.textContent = "Result Unknown.";
+      }
+    }
+  </script>
+</body>
+</html>

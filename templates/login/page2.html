@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Voice Recording</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/registerStyle.css') }}">
+  <style>
+    audio {
+      margin-top: 10px;
+      width: 100%;
+      display: none;
+    }
+
+    /* Modal Styles */
+    #modal {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-color: rgba(0, 0, 0, 0.5);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 9999;
+      display: none;
+      opacity: 0;
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    #modal.show {
+      display: flex;
+      opacity: 1;
+    }
+
+    #modalContentWrapper {
+      position: relative;
+      background-color: #fff;
+      padding: 20px 20px 20px 20px;
+      border-radius: 15px;
+      width: 70%;
+      max-width: 700px;
+      height: 60%;
+      overflow-y: auto;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      font-family: 'Courier New', Courier, monospace;
+      position: relative;
+      text-align: center;
+    }
+
+    #modalContent {
+      flex-grow: 1;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      color: #333;
+      font-size: 14px;
+      margin-top: 15px;
+    }
+
+    #closeModalBtnTop {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      background: none;
+      border: none;
+      font-size: 24px;
+      font-weight: bold;
+      color: #555;
+      cursor: pointer;
+    }
+
+    #closeModalBtnTop:hover {
+      color: red;
+    }
+
+    /* Spinner */
+    .spinner {
+      margin: 0 auto;
+      width: 40px;
+      height: 40px;
+      border: 4px solid rgba(0,0,0,0.1);
+      border-left-color: #4CAF50;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .status-icon {
+      font-size: 48px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main-home">
+    <p id="inner-heading">A DNN based speaker verification system 😊</p>
+
+    <div class="content-sentnse">
+      <h2>Login</h2>
+      <h1>Read this Sentence and then press submit button</h1>
+      <h3>This a DNN based speaker verification system our final year project. </h3>
+    </div>
+
+    <div class="input-text">
+      <label for="username">Enter your username:</label>
+      <input type="text" id="username" name="username" placeholder="Username" />
+    </div>
+
+    <div class="button-wrapper">
+      <button class="button" onclick="startRecording()" id="recordBtn">Start Recording 🎤</button>
+      <button class="button" onclick="saveRecording()">Save and Continue</button>
+      <button class="button" onclick="goToNext()">Next</button> 
+    </div>
+
+    <audio id="audioPreview" controls></audio>
+
+    <div class="footer"></div>
+  </div>
+
+  <!-- Modal Structure -->
+  <div id="modal">
+    <div id="modalContentWrapper">
+      <button id="closeModalBtnTop" onclick="closeModal()">×</button>
+      <div class="spinner" id="spinner"></div>
+      <div id="statusIcon" class="status-icon" style="display:none;"></div>
+      <div id="modalContent">
+        ⏳ Please wait while we process your voice...
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let mediaRecorder;
+    let recordedChunks = [];
+    let recordedBlob = null;
+
+    function goToNext() {
+      const username = document.getElementById('username').value;
+      window.location.href = '/login/page3';
+    }
+
+    async function startRecording() {
+      const username = document.getElementById("username").value.trim();
+      if (!username) {
+        alert("Please enter a username.");
+        return;
+      }
+
+      const formData = new FormData();
+      formData.append("username", username);
+
+      const res = await fetch("/check-user", { method: "POST", body: formData });
+      const result = await res.json();
+      if (!result.exists) {
+        alert("Username not found.");
+        return;
+      }
+
+      alert("User verified. Recording will start...");
+      const recordBtn = document.getElementById("recordBtn");
+      recordBtn.disabled = true;
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        recordedChunks = [];
+
+        mediaRecorder = new MediaRecorder(stream, { mimeType: 'audio/webm' });
+        mediaRecorder.ondataavailable = e => {
+          if (e.data.size > 0) {
+            recordedChunks.push(e.data);
+          }
+        };
+
+        mediaRecorder.onstop = () => {
+          recordedBlob = new Blob(recordedChunks, { type: 'audio/webm' });
+
+          const audioURL = URL.createObjectURL(recordedBlob);
+          const audio = document.getElementById("audioPreview");
+          audio.src = audioURL;
+          audio.style.display = "block";
+
+          console.log("✅ Recording completed. Size:", recordedBlob.size);
+        };
+
+        mediaRecorder.start();
+        console.log("🎤 Recording started");
+
+        setTimeout(() => {
+          mediaRecorder.stop();
+          stream.getAudioTracks()[0].stop();
+          console.log("🛑 Recording stopped");
+          recordBtn.disabled = false;
+        }, 4000);
+
+      } catch (err) {
+        console.error("❌ Error accessing mic:", err);
+        alert("Microphone access denied or not working.");
+        recordBtn.disabled = false;
+      }
+    }
+
+    function showModal() {
+      const modal = document.getElementById("modal");
+      modal.classList.add("show");
+      document.getElementById("spinner").style.display = "block";
+      document.getElementById("statusIcon").style.display = "none";
+      document.getElementById("modalContent").innerText = "⏳ Please wait while we process your voice...\n";
+    }
+
+    function closeModal() {
+      const modal = document.getElementById("modal");
+      modal.classList.remove("show");
+      setTimeout(() => {
+        modal.style.display = "none";
+      }, 300);
+    }
+
+    async function saveRecording() {
+  const username = document.getElementById("username").value.trim();
+  if (!recordedBlob) {
+    alert("Please record your voice first.");
+    return;
+  }
+
+  showModal(); // Only show spinner and "please wait" message
+
+  const formData = new FormData();
+  formData.append("audio_data", recordedBlob, "sample_1.webm");
+  formData.append("username", username);
+  formData.append("count", 1);
+
+  let collectedLogs = [];
+
+  try {
+    const response = await fetch("/login", {
+      method: "POST",
+      body: formData
+    });
+
+    const reader = response.body.getReader();
+    const decoder = new TextDecoder();
+
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) {
+        // Store all collected output to localStorage
+        localStorage.setItem('logs', JSON.stringify(collectedLogs));
+
+        // Hide spinner (optional)
+        document.getElementById("spinner").style.display = "none";
+
+        // After short wait, redirect to page 3
+        setTimeout(() => {
+          window.location.href = '/login/page3';
+        }, 2000); 
+        break;
+      }
+      const chunk = decoder.decode(value, { stream: true });
+
+      // Collect logs silently (do not show in modal)
+      if (chunk.trim()) {
+        collectedLogs.push(chunk.trim());
+      }
+    }
+  } catch (e) {
+    console.error("❌ Error uploading:", e);
+
+    collectedLogs.push("❌ Error uploading or processing.");
+    localStorage.setItem('logs', JSON.stringify(collectedLogs));
+
+    setTimeout(() => {
+      window.location.href = '/login/page3';
+    }, 2000);
+  }
+}
+
+
+</script>
+</body>
+</html>

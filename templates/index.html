@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Voice Authentication</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .hidden {
+      display: none;
+    }
+    audio {
+      width: 100%;
+      margin-top: 10px;
+    }
+    .nav-link.active {
+      font-weight: bold;
+      color: #0d6efd !important;
+    }
+    footer {
+      background: #343a40;
+      color: white;
+      padding: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">VoiceAuth</a>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="py-5 text-center bg-primary text-white">
+    <div class="container">
+      <h1>Voice Authentication System</h1>
+      <p class="lead">Securely register or login using your voice</p>
+    </div>
+  </header>
+
+  <!-- Main Section -->
+  <main class="container mt-5">
+    <div class="text-center mb-4">
+      <button class="btn btn-primary mx-2" onclick="startMode('register')">Register</button>
+      <button class="btn btn-success mx-2" onclick="startMode('login')">Login</button>
+    </div>
+
+    <!-- Step-by-Step Flow -->
+    <div id="flowSection" class="hidden">
+      <div class="mb-3">
+        <input type="text" id="username" class="form-control" placeholder="Enter your username">
+      </div>
+
+      <blockquote class="blockquote text-center">
+        "Technology has transformed the way we communicate, learn, and interact with the world. From smartphones to artificial intelligence, it shapes our daily lives and influences our decisions."
+      </blockquote>
+
+      <div class="mb-3 text-center">
+        <button id="startBtn" class="btn btn-warning" onclick="handleFlow()">🎙️ Start</button>
+        <audio id="audioPreview" class="hidden" controls></audio>
+      </div>
+
+      <p id="statusText" class="text-muted text-center"></p>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="text-center mt-5">
+    <div class="container">
+      &copy; 2025 Voice Authentication. All rights reserved.
+    </div>
+  </footer>
+
+  <script>
+    let mode = "";
+    let step = 0;
+    let recordings = [];
+
+    function startMode(selectedMode) {
+      mode = selectedMode;
+      step = 0;
+      recordings = [];
+      document.getElementById("flowSection").classList.remove("hidden");
+      document.getElementById("statusText").innerText = `Enter your username to continue.`;
+      document.getElementById("startBtn").innerText = "Save and Continue";
+    }
+
+    async function handleFlow() {
+      const username = document.getElementById("username").value.trim();
+      const statusText = document.getElementById("statusText");
+
+      if (!username) {
+        alert("Please enter your username.");
+        return;
+      }
+
+      if (mode === "register") {
+        if (step < 5) {
+          statusText.innerText = `Recording ${step + 1}/5...`;
+          const blob = await recordAudio();
+          recordings.push(blob);
+          await uploadRecording(blob, username, step + 1);
+          step++;
+          if (step < 5) {
+            statusText.innerText = `Recording ${step}/5 saved. Click to continue.`;
+          } else {
+            statusText.innerText = "✅ All recordings uploaded. Awaiting training...";
+          }
+        } else {
+          alert("✅ Registration complete!");
+          resetUI();
+        }
+      } else if (mode === "login") {
+        if (step === 0) {
+          const check = await checkUserExists(username);
+          if (!check) {
+            alert("❌ User not found. Please register first.");
+            return;
+          }
+          step++;
+          document.getElementById("startBtn").innerText = "Start Recording";
+          statusText.innerText = "Click to record your voice.";
+        } else if (step === 1) {
+          const blob = await recordAudio();
+          await loginUser(blob, username);
+          resetUI();
+        }
+      }
+    }
+
+    async function recordAudio() {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const recorder = new MediaRecorder(stream);
+      const chunks = [];
+
+      return new Promise(resolve => {
+        recorder.ondataavailable = e => chunks.push(e.data);
+        recorder.onstop = () => {
+          const blob = new Blob(chunks, { type: 'audio/wav' });
+          document.getElementById("audioPreview").src = URL.createObjectURL(blob);
+          document.getElementById("audioPreview").classList.remove("hidden");
+          resolve(blob);
+          stream.getTracks().forEach(track => track.stop());
+        };
+        recorder.start();
+        setTimeout(() => recorder.stop(), 4000);
+      });
+    }
+
+    async function uploadRecording(blob, username, count) {
+      const formData = new FormData();
+      formData.append("audio_data", blob, `sample_${count}.wav`);
+      formData.append("username", username);
+      formData.append("count", count);
+
+      const res = await fetch("/register", {
+        method: "POST",
+        body: formData
+      });
+      const result = await res.json();
+      document.getElementById("statusText").innerText = result.message;
+    }
+
+    async function checkUserExists(username) {
+      const res = await fetch("/check-user", {
+        method: "POST",
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ username })
+      });
+      const result = await res.json();
+      return result.exists;
+    }
+
+    async function loginUser(blob, username) {
+      const formData = new FormData();
+      formData.append("audio", blob);
+      formData.append("username", username);
+      formData.append("mode", "login");
+
+      const res = await fetch("/upload", {
+        method: "POST",
+        body: formData
+      });
+      const result = await res.json();
+      alert("🔍 " + result.message);
+    }
+
+    function resetUI() {
+      document.getElementById("flowSection").classList.add("hidden");
+      document.getElementById("username").value = "";
+      document.getElementById("audioPreview").classList.add("hidden");
+      document.getElementById("statusText").innerText = "";
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
