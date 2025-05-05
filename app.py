@@ -125,24 +125,5 @@ def login_user():
     return Response(stream_with_context(generate_logs()), mimetype='text/plain')
 
 
-@app.route('/upload', methods=['POST'])
-def upload():
-    file = request.files['audio']
-    username = request.form['username']
-    mode = request.form['mode']
-
-    audio_path = os.path.join("uploads", f"{username}.wav")
-    os.makedirs("uploads", exist_ok=True)
-    file.save(audio_path)
-
-    try:
-        if mode == 'register':
-            sign_up(username)
-        else:
-            login(username)
-        return jsonify({'message': f"{mode.capitalize()} process completed for {username}."})
-    except Exception as e:
-        return jsonify({'message': f"Error: {str(e)}"})
-
 if __name__ == '__main__':
     app.run(debug=True)
